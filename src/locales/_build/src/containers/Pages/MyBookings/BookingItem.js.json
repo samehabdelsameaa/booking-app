@@ -1,0 +1,101 @@
+{
+  "booking_ref": {
+    "defaults": "Booking Ref",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        34
+      ]
+    ]
+  },
+  "booking_date": {
+    "defaults": "Booking Date",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        42
+      ]
+    ]
+  },
+  "checkin_date": {
+    "defaults": "Checkin Date",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        57
+      ]
+    ]
+  },
+  "total_value": {
+    "defaults": "Total Value",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        72
+      ]
+    ]
+  },
+  "summary": {
+    "defaults": "Summary",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        81
+      ]
+    ]
+  },
+  "night": {
+    "defaults": "Night",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        83
+      ]
+    ]
+  },
+  "nights": {
+    "defaults": "Nights",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        83
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        84
+      ]
+    ]
+  },
+  "rooms": {
+    "defaults": "Rooms",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        84
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        85
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingItem.js",
+        85
+      ]
+    ]
+  }
+}

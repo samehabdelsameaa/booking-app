@@ -1,0 +1,139 @@
+{
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        20
+      ],
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        192
+      ]
+    ]
+  },
+  "children": {
+    "defaults": "Children",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        67
+      ],
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        198
+      ]
+    ]
+  },
+  "from_two_to_twelve_years": {
+    "defaults": "2 - 12 years",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        70
+      ]
+    ]
+  },
+  "infants": {
+    "defaults": "Infants",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        101
+      ],
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        204
+      ]
+    ]
+  },
+  "under_two_years": {
+    "defaults": "Under 2 years",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        104
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        192
+      ]
+    ]
+  },
+  "child": {
+    "defaults": "Child",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        198
+      ]
+    ]
+  },
+  "infant": {
+    "defaults": "Infant",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        204
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        210
+      ],
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        235
+      ],
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        245
+      ]
+    ]
+  },
+  "rooms": {
+    "defaults": "Rooms",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        210
+      ]
+    ]
+  },
+  "traveling_with_kids": {
+    "defaults": "Traveling with kids?",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        218
+      ]
+    ]
+  },
+  "include_them_above": {
+    "defaults": "Include them above for the best prices and recommendations.",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        221
+      ]
+    ]
+  },
+  "remove": {
+    "defaults": "Remove",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/PaxDetails.js",
+        253
+      ]
+    ]
+  }
+}

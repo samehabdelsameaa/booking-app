@@ -1,0 +1,74 @@
+{
+  "breakfast_for": {
+    "defaults": "Breakfast for",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        66
+      ]
+    ]
+  },
+  "refundable": {
+    "defaults": "Refundable",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        74
+      ]
+    ]
+  },
+  "Non_refundable": {
+    "defaults": "Non-refundable",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        80
+      ]
+    ]
+  },
+  "includes_taxes_and_fees": {
+    "defaults": "Includes taxes and fees",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        122
+      ]
+    ]
+  },
+  "select_this_room": {
+    "defaults": "Select this Room",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        135
+      ]
+    ]
+  },
+  "show_room_amenities": {
+    "defaults": "Show room amenities",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        176
+      ]
+    ]
+  },
+  "room_options": {
+    "defaults": "Room Options",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        189
+      ]
+    ]
+  },
+  "total": {
+    "defaults": "Total",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js",
+        195
+      ]
+    ]
+  }
+}

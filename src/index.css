@@ -1,0 +1,51 @@
+ @font-face {
+	font-family: 'FLYNAS';
+	src: url('/assets/fonts/FLYNAS-Oct22-Bold.ttf') format('ttf');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'flynas';
+	src: url('/assets/fonts/flynas-Oct22-Regular.ttf') format('ttf');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'flynas';
+	src: url('/assets/fonts/flynas-Oct22-Regular.ttf') format('ttf');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'GothamRnd-Bold';
+	src: url('/assets/fonts/GothamRnd-Bold.otf') format('otf');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Gotham-Rounded';
+	src: url('/assets/fonts/Gotham-Rounded.woff2') format('woff2');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+#app {
+  height: 100%;
+}
+
+#app > div {
+  height: 100%;
+}
+
+#app > div[dir="rtl"] {
+  font-family: GothamRnd-Bold, 'sans-serif';
+}

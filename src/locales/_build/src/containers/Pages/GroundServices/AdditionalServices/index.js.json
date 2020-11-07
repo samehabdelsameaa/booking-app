@@ -1,0 +1,29 @@
+{
+  "service": {
+    "defaults": "Service",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/AdditionalServices/index.js",
+        20
+      ]
+    ]
+  },
+  "qty": {
+    "defaults": "QTY",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/AdditionalServices/index.js",
+        24
+      ]
+    ]
+  },
+  "duration": {
+    "defaults": "Duration",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/AdditionalServices/index.js",
+        27
+      ]
+    ]
+  }
+}

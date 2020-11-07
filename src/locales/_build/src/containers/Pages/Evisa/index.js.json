@@ -1,0 +1,47 @@
+{
+  "your_e_visa_status": {
+    "defaults": "Your E-VISA status",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/index.js",
+        58
+      ]
+    ]
+  },
+  "here_you_can_see_the_status_of_your_visa": {
+    "defaults": "Here you can see the status of your visa. If you need help in obtaining a visa, our company can help you with this.",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/index.js",
+        62
+      ]
+    ]
+  },
+  "e_visa": {
+    "defaults": "E-VISA",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/index.js",
+        74
+      ]
+    ]
+  },
+  "back": {
+    "defaults": "Back",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/index.js",
+        90
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/index.js",
+        100
+      ]
+    ]
+  }
+}

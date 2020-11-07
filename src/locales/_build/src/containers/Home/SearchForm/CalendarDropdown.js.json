@@ -1,0 +1,11 @@
+{
+  "departure_date": {
+    "defaults": "Departure Date",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/CalendarDropdown.js",
+        30
+      ]
+    ]
+  }
+}

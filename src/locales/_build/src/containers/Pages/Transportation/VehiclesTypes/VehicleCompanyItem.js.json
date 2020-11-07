@@ -1,0 +1,29 @@
+{
+  "qty": {
+    "defaults": "QTY",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/VehicleCompanyItem.js",
+        51
+      ]
+    ]
+  },
+  "selected": {
+    "defaults": "Selected",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/VehicleCompanyItem.js",
+        81
+      ]
+    ]
+  },
+  "select": {
+    "defaults": "Select",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/VehicleCompanyItem.js",
+        81
+      ]
+    ]
+  }
+}

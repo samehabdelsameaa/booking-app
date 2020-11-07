@@ -1,0 +1,20 @@
+{
+  "an_error_occured": {
+    "defaults": "An error occurred, Your Booking failed!",
+    "origin": [
+      [
+        "src/containers/Pages/Confirmation/ConfirmationFailure.js",
+        16
+      ]
+    ]
+  },
+  "you_have_problem_filling_out": {
+    "defaults": "For More Information, please Conatct Our Support:",
+    "origin": [
+      [
+        "src/containers/Pages/Confirmation/ConfirmationFailure.js",
+        20
+      ]
+    ]
+  }
+}

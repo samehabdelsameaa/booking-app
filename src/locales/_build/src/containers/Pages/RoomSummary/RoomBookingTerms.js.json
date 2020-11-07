@@ -1,0 +1,11 @@
+{
+  "booking_terms": {
+    "defaults": "Booking Terms",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomBookingTerms.js",
+        21
+      ]
+    ]
+  }
+}

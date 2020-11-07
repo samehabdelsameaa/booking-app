@@ -1,0 +1,118 @@
+.carousel {
+  border-radius: 5px;
+  max-height: 365px;
+  background: transparent;
+  
+  &.carousel-slider {
+    button.control-arrow {
+      background: #fff;
+      width: 40px;
+      height: 40px;
+      border-radius: 40px;
+      opacity: 0.4;
+
+      &.control-prev, &.control-next {
+        top: 45%;
+        margin: 10px;
+
+        &::before {
+          display: none;
+        }
+
+        ;
+
+        &:hover {
+          &::after {
+            color: #01bab4;
+          }
+        }
+      }
+
+      &.control-prev {
+        &::after {
+          display: block;
+          content: '\003c';
+          color: #000000;
+          transform: scale(0.8, 1.6);
+          -webkit-transform: scale(0.8, 1.6);
+          position: relative;
+          top: 3px;
+          left: -2px;
+        }
+      }
+
+      &.control-next {
+        &::after {
+          display: block;
+          content: '\003c';
+          color: #000000;
+          transform: rotate(180deg) scale(0.8, 1.6);
+          -webkit-transform: rotate(180deg) scale(0.8, 1.6);
+          top: -2px;
+          right: -2px;
+          position: relative;
+        }
+      }
+    }
+
+    ul.control-dots {
+      li.dot {
+        border: 1px solid #eeeeee;
+      }
+    }
+  }
+
+  .thumbs-wrapper {
+    margin: 10px 0px;
+
+    ul.animated {
+      position: relative;
+      left: -5%;
+    }
+
+    .thumb {
+      border-radius: 5px;
+      border: 1px solid transparent;
+      width: 17%;
+      cursor: pointer;
+
+      &:hover, &.selected {
+        border: 1px solid #666666;
+      }
+    }
+
+    .control-arrow {
+      top: 42%;
+    }
+
+    button {
+      display: none;
+    }
+  }
+}
+
+.slide{
+  background: transparent !important;
+}
+.thumbs-container {
+  .thumb-wrapper {
+    display: inline-block;
+    margin-right: 7.2px;
+    margin-top: 10px;
+    cursor: pointer;
+
+    img.thumb {
+      width: 97px;
+      height: 65px;
+      opacity: 0.6;
+      transition: all 0.2s linear;
+      -webkit-transition: all 0.2s linear;
+
+      &:hover {
+        opacity: 1;
+        transition: all 0.2s linear;
+        -webkit-transition: all 0.2s linear;
+      }
+    }
+  }
+} 

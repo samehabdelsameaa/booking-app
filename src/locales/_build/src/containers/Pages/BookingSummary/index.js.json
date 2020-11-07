@@ -1,0 +1,47 @@
+{
+  "booking_summary": {
+    "defaults": "Booking Summary",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/index.js",
+        67
+      ]
+    ]
+  },
+  "you_will_be_charged_in": {
+    "defaults": "You Will Be Charged In",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/index.js",
+        107
+      ]
+    ]
+  },
+  "the_price_quoted_includes_5%_vat": {
+    "defaults": "The price quoted includes 5% VAT.",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/index.js",
+        117
+      ]
+    ]
+  },
+  "grand_total": {
+    "defaults": "Grand Total",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/index.js",
+        121
+      ]
+    ]
+  },
+  "confirm_payment": {
+    "defaults": "Checkout",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/index.js",
+        138
+      ]
+    ]
+  }
+}

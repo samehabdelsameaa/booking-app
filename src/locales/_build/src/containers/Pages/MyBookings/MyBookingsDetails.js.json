@@ -1,0 +1,20 @@
+{
+  "account": {
+    "defaults": "Account",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/MyBookingsDetails.js",
+        17
+      ]
+    ]
+  },
+  "my_booking": {
+    "defaults": "My Booking",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/MyBookingsDetails.js",
+        19
+      ]
+    ]
+  }
+}

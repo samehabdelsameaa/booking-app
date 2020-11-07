@@ -1,0 +1,72 @@
+{
+  "flight_details": {
+    "defaults": "Flight details",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        15
+      ]
+    ]
+  },
+  "flight": {
+    "defaults": "Flight",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        38
+      ],
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        102
+      ]
+    ]
+  },
+  "class_of_travel": {
+    "defaults": "Class of travel (T)",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        65
+      ],
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        128
+      ]
+    ]
+  },
+  "guest": {
+    "defaults": "Guest",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        68
+      ],
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        131
+      ]
+    ]
+  },
+  "number_of_stops": {
+    "defaults": "Number of stops",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        73
+      ],
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        136
+      ]
+    ]
+  },
+  "baggage": {
+    "defaults": "Baggage",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewFlightReservation.js",
+        152
+      ]
+    ]
+  }
+}

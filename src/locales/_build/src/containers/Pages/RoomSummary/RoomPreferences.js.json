@@ -1,0 +1,65 @@
+{
+  "room_preferences": {
+    "defaults": "Room Preferences",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferences.js",
+        22
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferences.js",
+        73
+      ]
+    ]
+  },
+  "describe_any_special_requests": {
+    "defaults": "Please describe any special requests (for example, early check-in, high floor, etc.). TravelNow will pass your special request on to the property, but such requests are not guaranteed and may not be available in the room type and room rate requested. You may wish to directly contact the property before your stay to confirm your special request.",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferences.js",
+        79
+      ]
+    ]
+  },
+  "room_amenities": {
+    "defaults": "Room amenities",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferences.js",
+        94
+      ]
+    ]
+  },
+  "special_check_in_instructions": {
+    "defaults": "Special check-in instructions",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferences.js",
+        180
+      ]
+    ]
+  },
+  "a_valid_permit_to_perform_hajj_must_be_presented_at_the_airport": {
+    "defaults": "A valid permit to perform Hajj must be presented at the airport and hotel check-in from July 25-August 25, 2019. Guests without valid permits will not be able to check-in. For permit-related questions, please contact the hotel or airline directly. Contact information is provided on the reservation confirmation received after booking.",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferences.js",
+        185
+      ]
+    ]
+  },
+  "check_in_instructions": {
+    "defaults": "Check-in instructions",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferences.js",
+        206
+      ]
+    ]
+  }
+}

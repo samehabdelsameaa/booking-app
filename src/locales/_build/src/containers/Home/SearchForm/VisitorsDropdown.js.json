@@ -1,0 +1,126 @@
+{
+  "rooms": {
+    "defaults": "Rooms",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        20
+      ],
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        142
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        51
+      ],
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        137
+      ]
+    ]
+  },
+  "children": {
+    "defaults": "Children",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        74
+      ],
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        139
+      ]
+    ]
+  },
+  "from_two_to_twelve_years": {
+    "defaults": "2 - 12 years",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        75
+      ]
+    ]
+  },
+  "infants": {
+    "defaults": "Infants",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        103
+      ],
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        145
+      ]
+    ]
+  },
+  "under_two_years": {
+    "defaults": "Under 2 years",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        104
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        137
+      ]
+    ]
+  },
+  "child": {
+    "defaults": "Child",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        139
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        142
+      ]
+    ]
+  },
+  "infant": {
+    "defaults": "Infant",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        145
+      ]
+    ]
+  },
+  "traveling_with_kids": {
+    "defaults": "Traveling with kids?",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        158
+      ]
+    ]
+  },
+  "include_them_above": {
+    "defaults": "Include them above for the best prices and recommendations.",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/VisitorsDropdown.js",
+        161
+      ]
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ground_service": {
+    "defaults": "Ground Service",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewGroundServices.js",
+        13
+      ]
+    ]
+  },
+  "selected_type": {
+    "defaults": "Selected type",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewGroundServices.js",
+        19
+      ]
+    ]
+  }
+}

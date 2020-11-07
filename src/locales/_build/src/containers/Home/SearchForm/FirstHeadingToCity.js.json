@@ -1,0 +1,20 @@
+{
+  "first_heading_to": {
+    "defaults": "First Heading to",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/FirstHeadingToCity.js",
+        10
+      ]
+    ]
+  },
+  "travelling_starting_point_tooltip_info_text": {
+    "defaults": "Choose your journey's start city",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/FirstHeadingToCity.js",
+        16
+      ]
+    ]
+  }
+}

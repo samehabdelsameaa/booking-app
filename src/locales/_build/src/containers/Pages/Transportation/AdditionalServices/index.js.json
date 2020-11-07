@@ -1,0 +1,11 @@
+{
+  "additional_service": {
+    "defaults": "Additional Service",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/AdditionalServices/index.js",
+        18
+      ]
+    ]
+  }
+}

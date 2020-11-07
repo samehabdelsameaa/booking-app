@@ -1,0 +1,20 @@
+{
+  "selected": {
+    "defaults": "Selected",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/Routes/Route.js",
+        40
+      ]
+    ]
+  },
+  "select": {
+    "defaults": "Select",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/Routes/Route.js",
+        40
+      ]
+    ]
+  }
+}

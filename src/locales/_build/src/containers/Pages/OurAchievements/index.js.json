@@ -1,0 +1,11 @@
+{
+  "our_achievements": {
+    "defaults": "Our Achievements",
+    "origin": [
+      [
+        "src/containers/Pages/OurAchievements/index.js",
+        7
+      ]
+    ]
+  }
+}

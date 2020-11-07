@@ -1,0 +1,29 @@
+{
+  "faq": {
+    "defaults": "FAQ",
+    "origin": [
+      [
+        "src/containers/Pages/Faq/index.js",
+        19
+      ]
+    ]
+  },
+  "got_a_question": {
+    "defaults": "Got a question? We've got answers.",
+    "origin": [
+      [
+        "src/containers/Pages/Faq/index.js",
+        20
+      ]
+    ]
+  },
+  "to_save_you_time": {
+    "defaults": "To save you time, we've put answers to the most common inquiries here. Just click on the category and look for your question.",
+    "origin": [
+      [
+        "src/containers/Pages/Faq/index.js",
+        22
+      ]
+    ]
+  }
+}

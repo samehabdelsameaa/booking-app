@@ -1,0 +1,11 @@
+{
+  "select_company": {
+    "defaults": "Select company",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/Companies/GroundServicesCompanyList.js",
+        29
+      ]
+    ]
+  }
+}

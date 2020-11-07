@@ -1,0 +1,29 @@
+{
+  "your_hotel": {
+    "defaults": "Your Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewHotel.js",
+        43
+      ]
+    ]
+  },
+  "change_hotels": {
+    "defaults": "Change Hotels",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewHotel.js",
+        52
+      ]
+    ]
+  },
+  "hotel": {
+    "defaults": "Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewHotel.js",
+        76
+      ]
+    ]
+  }
+}

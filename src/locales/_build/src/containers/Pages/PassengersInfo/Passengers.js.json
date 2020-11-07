@@ -1,0 +1,298 @@
+{
+  "main_passenger": {
+    "defaults": "Main Passenger",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        97
+      ]
+    ]
+  },
+  "person": {
+    "defaults": "Person",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        268
+      ]
+    ]
+  },
+  "room_no": {
+    "defaults": "Room NO.",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        269
+      ]
+    ]
+  },
+  "lead_guest": {
+    "defaults": "Lead Guest",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        277
+      ]
+    ]
+  },
+  "guest": {
+    "defaults": "Guest",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        279
+      ]
+    ]
+  },
+  "title": {
+    "defaults": "Title",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        303
+      ]
+    ]
+  },
+  "first_name": {
+    "defaults": "First Name",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        319
+      ]
+    ]
+  },
+  "middle_name": {
+    "defaults": "Middle Name",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        349
+      ]
+    ]
+  },
+  "last_name": {
+    "defaults": "Last Name",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        379
+      ],
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        1046
+      ]
+    ]
+  },
+  "birth_date": {
+    "defaults": "Birth Date",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        409
+      ]
+    ]
+  },
+  "nationality": {
+    "defaults": "Nationality",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        431
+      ]
+    ]
+  },
+  "gender": {
+    "defaults": "Gender",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        455
+      ]
+    ]
+  },
+  "country": {
+    "defaults": "Country",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        483
+      ]
+    ]
+  },
+  "city": {
+    "defaults": "City",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        517
+      ]
+    ]
+  },
+  "address": {
+    "defaults": "Address",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        567
+      ]
+    ]
+  },
+  "state": {
+    "defaults": "State",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        599
+      ]
+    ]
+  },
+  "zip_code": {
+    "defaults": "Zip Code",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        629
+      ]
+    ]
+  },
+  "district": {
+    "defaults": "District",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        659
+      ]
+    ]
+  },
+  "phone_dial_code": {
+    "defaults": "Phone Country Code",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        695
+      ]
+    ]
+  },
+  "phone_number": {
+    "defaults": "Phone Number",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        726
+      ]
+    ]
+  },
+  "home_phone_dial_code": {
+    "defaults": "Home Phone Country Code",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        763
+      ]
+    ]
+  },
+  "home_phone_number": {
+    "defaults": "Home Phone Number",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        794
+      ]
+    ]
+  },
+  "passport_number": {
+    "defaults": "Passport Number",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        832
+      ]
+    ]
+  },
+  "passport_issuing_date": {
+    "defaults": "Passport Issuing Date",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        865
+      ]
+    ]
+  },
+  "passport_expiry_date": {
+    "defaults": "Passport Expiry Date",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        891
+      ]
+    ]
+  },
+  "fax": {
+    "defaults": "Fax",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        921
+      ]
+    ]
+  },
+  "optional": {
+    "defaults": "Optional",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        922
+      ]
+    ]
+  },
+  "e_mail": {
+    "defaults": "E-mail",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        951
+      ],
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        1014
+      ]
+    ]
+  },
+  "how_we_use_your_information": {
+    "defaults": "How we use your information?",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        982
+      ]
+    ]
+  },
+  "all_information_provided_by_the_users": {
+    "defaults": "Note: All the information provided by the users is protected by the GDPR and will only be used within the Terms & Conditions and Privacy Statement of Saudia Holidays.",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        989
+      ]
+    ]
+  },
+  "please_provide_contact_details_for_your_itinerary": {
+    "defaults": "Please provide contact details for your Itinerary. Confirmation of the booking and all communication will be communicated through the information you provide here.",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        1001
+      ]
+    ]
+  },
+  "contact_number": {
+    "defaults": "Contact number",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/Passengers.js",
+        1073
+      ]
+    ]
+  }
+}

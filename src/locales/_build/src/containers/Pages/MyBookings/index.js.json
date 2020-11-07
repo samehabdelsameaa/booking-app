@@ -1,0 +1,11 @@
+{
+  "order_by": {
+    "defaults": "Order by",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/index.js",
+        111
+      ]
+    ]
+  }
+}

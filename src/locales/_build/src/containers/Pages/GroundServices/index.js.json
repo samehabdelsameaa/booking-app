@@ -1,0 +1,29 @@
+{
+  "search": {
+    "defaults": "Search",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/index.js",
+        143
+      ]
+    ]
+  },
+  "back": {
+    "defaults": "Back",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/index.js",
+        163
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/index.js",
+        176
+      ]
+    ]
+  }
+}

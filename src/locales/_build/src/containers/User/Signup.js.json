@@ -1,0 +1,105 @@
+{
+  "flynas": {
+    "defaults": "Flynas",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        40
+      ]
+    ]
+  },
+  "sign_up": {
+    "defaults": "Sign Up",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        45
+      ],
+      [
+        "src/containers/User/Signup.js",
+        133
+      ]
+    ]
+  },
+  "email_me_exclusive_flynas_promotions": {
+    "defaults": "Email me exclusive Flynas promotions. I can unsubscribe at any time as stated in the Privacy Policy.",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        103
+      ]
+    ]
+  },
+  "create_account": {
+    "defaults": "Create account",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        112
+      ]
+    ]
+  },
+  "by_signing_in_i_agree": {
+    "defaults": "By signing in, I agree to",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        116
+      ]
+    ]
+  },
+  "terms_of_use": {
+    "defaults": "Terms of Use",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        118
+      ]
+    ]
+  },
+  "_and": {
+    "defaults": "and",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        120
+      ]
+    ]
+  },
+  "privacy_policy": {
+    "defaults": "Pravicy Policy",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        122
+      ]
+    ]
+  },
+  "already_have_an_account": {
+    "defaults": "Already have an account?",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        137
+      ]
+    ]
+  },
+  "sign_in": {
+    "defaults": "sign in",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        139
+      ]
+    ]
+  },
+  "loading": {
+    "defaults": "Loading....",
+    "origin": [
+      [
+        "src/containers/User/Signup.js",
+        163
+      ]
+    ]
+  }
+}

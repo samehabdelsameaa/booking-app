@@ -1,0 +1,38 @@
+{
+  "transportation_package": {
+    "defaults": "Transportation package",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewTransportation.js",
+        19
+      ]
+    ]
+  },
+  "package_type": {
+    "defaults": "Package type",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewTransportation.js",
+        28
+      ]
+    ]
+  },
+  "selected_vechicle_type": {
+    "defaults": "Selected vehicle type",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewTransportation.js",
+        34
+      ]
+    ]
+  },
+  "quantity": {
+    "defaults": "Quantity",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewTransportation.js",
+        62
+      ]
+    ]
+  }
+}

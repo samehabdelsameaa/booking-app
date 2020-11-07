@@ -1,0 +1,11 @@
+{
+  "search": {
+    "defaults": "Search",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/index.js",
+        110
+      ]
+    ]
+  }
+}

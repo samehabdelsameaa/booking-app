@@ -1,0 +1,50 @@
+{
+  "nights": {
+    "defaults": "Nights",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/NightsReseidenceDropdown.js",
+        81
+      ],
+      [
+        "src/containers/Home/SearchForm/NightsReseidenceDropdown.js",
+        93
+      ],
+      [
+        "src/containers/Home/SearchForm/NightsReseidenceDropdown.js",
+        112
+      ]
+    ]
+  },
+  "mecca": {
+    "defaults": "Mecca",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/NightsReseidenceDropdown.js",
+        90
+      ]
+    ]
+  },
+  "night": {
+    "defaults": "Night",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/NightsReseidenceDropdown.js",
+        93
+      ],
+      [
+        "src/containers/Home/SearchForm/NightsReseidenceDropdown.js",
+        112
+      ]
+    ]
+  },
+  "madinah": {
+    "defaults": "Madinah",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/NightsReseidenceDropdown.js",
+        109
+      ]
+    ]
+  }
+}

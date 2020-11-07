@@ -1,0 +1,56 @@
+{
+  "our_achievements": {
+    "defaults": "Our Achievements",
+    "origin": [
+      [
+        "src/containers/Pages/Achievements/index.js",
+        16
+      ]
+    ]
+  },
+  "flynas_has_sponsored_the_hajj": {
+    "defaults": "Flynas has sponsored the Hajj Grands symposium number (43) Hajj, entitled \"The Honor of Place and Time in Safety and Security\" organized by the Ministry of Hajj and Umrah every year during the Hajj season. We have been honored to be the official Air Carrier of the symposium. Where we provided air transport to nearly 100 guests of the symposium from Ministers, Muftis, Scientists and participants from all over the world.",
+    "origin": [
+      [
+        "src/containers/Pages/Achievements/index.js",
+        18
+      ]
+    ]
+  },
+  "arrival_and_departure_service": {
+    "defaults": "Arrival and Departure Service",
+    "origin": [
+      [
+        "src/containers/Pages/Achievements/index.js",
+        39
+      ]
+    ]
+  },
+  "flynas_as_one_of_the_main_organizer": {
+    "defaults": "Flynas as one of the main organizer for Individual Hajj in1439, has developed packages incorporated services including meet & assist on Arrival/ Departure and Accommodation. Transportations Between Airports, Makkah & Madinah, Masha'eer, thru Unified portal System.",
+    "origin": [
+      [
+        "src/containers/Pages/Achievements/index.js",
+        43
+      ]
+    ]
+  },
+  "flynas_hajj_and_umrah": {
+    "defaults": "Flynas Hajj & Umrah",
+    "origin": [
+      [
+        "src/containers/Pages/Achievements/index.js",
+        68
+      ]
+    ]
+  },
+  "signing_Memorandum_of_Understanding": {
+    "defaults": "Signing Memorandum of Understanding between the Ministry of Hajj & Umrah and Flynas Hajj & Umrah comes in line with the Vision 2030 which serves DIOUF AL RAHMAN Program and aims increase the number of pilgrims to improve the quality of services, allow the pilgrim to create packages by himself.",
+    "origin": [
+      [
+        "src/containers/Pages/Achievements/index.js",
+        73
+      ]
+    ]
+  }
+}

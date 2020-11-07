@@ -1,0 +1,20 @@
+{
+  "your_hotel": {
+    "defaults": "Your Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewHotel.js",
+        20
+      ]
+    ]
+  },
+  "hotel": {
+    "defaults": "Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/ReviewHotel.js",
+        41
+      ]
+    ]
+  }
+}

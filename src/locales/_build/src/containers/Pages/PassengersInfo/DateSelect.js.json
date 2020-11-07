@@ -1,0 +1,11 @@
+{
+  "mm_dd_yy": {
+    "defaults": "MM / DD / Year",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/DateSelect.js",
+        80
+      ]
+    ]
+  }
+}

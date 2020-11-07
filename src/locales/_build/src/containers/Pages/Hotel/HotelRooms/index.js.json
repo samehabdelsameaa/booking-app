@@ -1,0 +1,29 @@
+{
+  "you_have": {
+    "defaults": "You have",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/index.js",
+        135
+      ]
+    ]
+  },
+  "available_room_options_to_choose_from": {
+    "defaults": "available room options to choose from at this hotel",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/index.js",
+        137
+      ]
+    ]
+  },
+  "you_dont_have_available_rooms": {
+    "defaults": "You don't have available rooms",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelRooms/index.js",
+        142
+      ]
+    ]
+  }
+}

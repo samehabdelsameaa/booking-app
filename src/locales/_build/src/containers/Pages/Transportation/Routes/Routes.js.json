@@ -1,0 +1,11 @@
+{
+  "select_route": {
+    "defaults": "Select route",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/Routes/Routes.js",
+        36
+      ]
+    ]
+  }
+}

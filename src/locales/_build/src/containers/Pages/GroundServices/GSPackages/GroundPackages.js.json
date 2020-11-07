@@ -1,0 +1,20 @@
+{
+  "select_ground_service_package": {
+    "defaults": "Select ground service package",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/GSPackages/GroundPackages.js",
+        31
+      ]
+    ]
+  },
+  "package_type": {
+    "defaults": "Package type",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/GSPackages/GroundPackages.js",
+        41
+      ]
+    ]
+  }
+}

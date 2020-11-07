@@ -1,0 +1,172 @@
+{
+  "check_in": {
+    "defaults": "Check-in",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        70
+      ]
+    ]
+  },
+  "check_out": {
+    "defaults": "Check-out",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        87
+      ]
+    ]
+  },
+  "guests": {
+    "defaults": "Guests",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        104
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        110
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        110
+      ]
+    ]
+  },
+  "child": {
+    "defaults": "Child",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        117
+      ]
+    ]
+  },
+  "children": {
+    "defaults": "Children",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        117
+      ]
+    ]
+  },
+  "infant": {
+    "defaults": "Infant",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        124
+      ]
+    ]
+  },
+  "infants": {
+    "defaults": "Infants",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        124
+      ]
+    ]
+  },
+  "rooms": {
+    "defaults": "Rooms",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        131
+      ],
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        135
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        135
+      ]
+    ]
+  },
+  "nights": {
+    "defaults": "Nights",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        140
+      ],
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        144
+      ]
+    ]
+  },
+  "night": {
+    "defaults": "Night",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        144
+      ]
+    ]
+  },
+  "room_type": {
+    "defaults": "Room Type",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        149
+      ]
+    ]
+  },
+  "includes_taxes_and_fees": {
+    "defaults": "Includes taxes and fees",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        153
+      ]
+    ]
+  },
+  "hotel_features": {
+    "defaults": "Hotel Features",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        162
+      ]
+    ]
+  },
+  "hotel": {
+    "defaults": "Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        207
+      ]
+    ]
+  },
+  "change_hotel": {
+    "defaults": "Change Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/HotelSummary.js",
+        216
+      ]
+    ]
+  }
+}

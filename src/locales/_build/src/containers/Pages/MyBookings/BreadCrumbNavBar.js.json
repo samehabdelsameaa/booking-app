@@ -1,0 +1,11 @@
+{
+  "account": {
+    "defaults": "Account",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BreadCrumbNavBar.js",
+        11
+      ]
+    ]
+  }
+}

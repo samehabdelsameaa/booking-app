@@ -1,0 +1,69 @@
+{
+  "depart": {
+    "defaults": "Depart",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        120
+      ]
+    ]
+  },
+  "stops": {
+    "defaults": "Stops",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        143
+      ]
+    ]
+  },
+  "arrives": {
+    "defaults": "Arrives",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        161
+      ]
+    ]
+  },
+  "flight": {
+    "defaults": "Flight",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        188
+      ]
+    ]
+  },
+  "economy": {
+    "defaults": "Economy",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        201
+      ]
+    ]
+  },
+  "business": {
+    "defaults": "Business",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        209
+      ]
+    ]
+  },
+  "seats_left": {
+    "defaults": "seats left",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        287
+      ],
+      [
+        "src/containers/Pages/Flight/FlightItem.js",
+        370
+      ]
+    ]
+  }
+}

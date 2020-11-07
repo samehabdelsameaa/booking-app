@@ -1,0 +1,87 @@
+{
+  "sign_in_with_one_click": {
+    "defaults": "Sign In with one click",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        30
+      ],
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        98
+      ]
+    ]
+  },
+  "forgot_your_password": {
+    "defaults": "Forgot your password?",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        69
+      ]
+    ]
+  },
+  "sign_in": {
+    "defaults": "sign in",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        75
+      ]
+    ]
+  },
+  "by_signing_in_i_agree": {
+    "defaults": "By signing in, I agree to",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        80
+      ]
+    ]
+  },
+  "terms_of_use": {
+    "defaults": "Terms of Use",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        82
+      ]
+    ]
+  },
+  "_and": {
+    "defaults": "and",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        84
+      ]
+    ]
+  },
+  "privacy_policy": {
+    "defaults": "Pravicy Policy",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        86
+      ]
+    ]
+  },
+  "no_account_yet": {
+    "defaults": "No account yet?",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        104
+      ]
+    ]
+  },
+  "create_account": {
+    "defaults": "Create account",
+    "origin": [
+      [
+        "src/containers/User/SignIn/SignIn.js",
+        108
+      ]
+    ]
+  }
+}

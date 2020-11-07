@@ -1,0 +1,11 @@
+{
+  "special_features": {
+    "defaults": "Special Features",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFeatures.js",
+        12
+      ]
+    ]
+  }
+}

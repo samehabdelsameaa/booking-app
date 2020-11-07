@@ -1,0 +1,228 @@
+{
+  "about_us_page_title": {
+    "defaults": "About us",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        19
+      ]
+    ]
+  },
+  "about_us_page_brief_text": {
+    "defaults": "Flynas Umrah Services was established in 1439 AH / 2017 AD to serve pilgrims and visitors of the Grand Mosque, the Prophet's Mosque and the Holy ritual places. flynas Umrah services provides various packages of high-end and integrated services in order to provide pilgrims and visitors with the perfect comfort, as an initiative to realize the Kingdom’s Vision 2030, which aims to increase the number of pilgrims, establish new markets and enhance after-Umrah tourism.",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        22
+      ]
+    ]
+  },
+  "pages.aboutus.flynas_img_caption": {
+    "defaults": "Flynas",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        32
+      ]
+    ]
+  },
+  "our_vision": {
+    "defaults": "Our vision",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        47
+      ]
+    ]
+  },
+  "flynas_umrah_services_strives": {
+    "defaults": "Flynas Umrah services strives to be the leading and distinctive company in o‑ering high-quality Umrah services that are suitable for all.",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        50
+      ]
+    ]
+  },
+  "our_services": {
+    "defaults": "Our Services",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        59
+      ],
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        103
+      ]
+    ]
+  },
+  "arrival_and_departure": {
+    "defaults": "Arrival and Departure",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        64
+      ],
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        108
+      ]
+    ]
+  },
+  "hotels_and_rooms": {
+    "defaults": "Hotels and Rooms",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        69
+      ],
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        113
+      ]
+    ]
+  },
+  "catering": {
+    "defaults": "Catering",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        74
+      ],
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        118
+      ]
+    ]
+  },
+  "transportation": {
+    "defaults": "Transportation",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        79
+      ],
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        123
+      ]
+    ]
+  },
+  "mazarat_and_tours": {
+    "defaults": "Mazarat and Touristic tours",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        84
+      ],
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        128
+      ],
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        216
+      ]
+    ]
+  },
+  "pages.aboutus.vision_img_caption": {
+    "defaults": "Vision",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        92
+      ]
+    ]
+  },
+  "arrival_and_departure_service": {
+    "defaults": "Arrival and Departure Service",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        145
+      ]
+    ]
+  },
+  "meeting_and_greeting_pilgrims_and_visitors": {
+    "defaults": "Meeting and Greeting pilgrims and visitors at airports and others points of entry in di‑erent languages and provide VIP services and guest with special needs.",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        148
+      ]
+    ]
+  },
+  "hotels_and_rooms_service": {
+    "defaults": "Hotels and Rooms Service",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        163
+      ]
+    ]
+  },
+  "for_your_convenience_we_provide_recommendation": {
+    "defaults": "For your convenience, we provide various accommodation options through our Hotels and Rooms partners, which are just a few meters away from the Holy Mosque, with 24-hour services and at competitive prices.",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        166
+      ]
+    ]
+  },
+  "catering_service": {
+    "defaults": "Catering Service",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        181
+      ]
+    ]
+  },
+  "to_enrich_your_visit": {
+    "defaults": "To enrich your visit, we are pleased to provide ready-made meals and international cuisines buffet",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        184
+      ]
+    ]
+  },
+  "transportation_service": {
+    "defaults": "Transportation Service",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        198
+      ]
+    ]
+  },
+  "we_are_pleased_to_provide_transportation": {
+    "defaults": "We are pleased to provide the latest transportation, such as buses and cars of various categories from reputed transport companies, in addition to the Haramain High-Speed Railway tickets",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        201
+      ]
+    ]
+  },
+  "we_are_pleased_to_arrange_visits": {
+    "defaults": "We are pleased to arrange visits to the most significant religious, touristic and heritage landmarks in the Kingdom of Saudi Arabia to enrich after-Umrah tourism",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        219
+      ]
+    ]
+  },
+  "pages.aboutus.service_img_caption": {
+    "defaults": "Services",
+    "origin": [
+      [
+        "src/containers/Pages/AboutUs/index.js",
+        229
+      ]
+    ]
+  }
+}

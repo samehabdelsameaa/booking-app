@@ -1,0 +1,86 @@
+{
+  "choose_your_fare": {
+    "defaults": "Choose your fare",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        219
+      ]
+    ]
+  },
+  "cabin_baggage": {
+    "defaults": "Cabin baggage",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        225
+      ]
+    ]
+  },
+  "checked_baggage": {
+    "defaults": "Checked baggage",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        231
+      ]
+    ]
+  },
+  "seat_selection": {
+    "defaults": "Seat selection",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        237
+      ]
+    ]
+  },
+  "meal": {
+    "defaults": "Meal",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        243
+      ]
+    ]
+  },
+  "here_is_your_tooltip!": {
+    "defaults": "Here is your tooltip! Reception and welcome in hotel",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        251
+      ],
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        268
+      ],
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        287
+      ]
+    ]
+  },
+  "cancel_booking": {
+    "defaults": "Cancel booking",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        261
+      ],
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        279
+      ]
+    ]
+  },
+  "smile_points": {
+    "defaults": "SMILE Points",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPackages.js",
+        298
+      ]
+    ]
+  }
+}

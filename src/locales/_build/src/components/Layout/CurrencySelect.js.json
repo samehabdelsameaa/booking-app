@@ -1,0 +1,47 @@
+{
+  "currency": {
+    "defaults": "Currency",
+    "origin": [
+      [
+        "src/components/Layout/CurrencySelect.js",
+        66
+      ]
+    ]
+  },
+  "price_display": {
+    "defaults": "Price display",
+    "origin": [
+      [
+        "src/components/Layout/CurrencySelect.js",
+        73
+      ]
+    ]
+  },
+  "suggested_currencies": {
+    "defaults": "Suggested currencies",
+    "origin": [
+      [
+        "src/components/Layout/CurrencySelect.js",
+        89
+      ]
+    ]
+  },
+  "popular_currencies": {
+    "defaults": "Popular currencies",
+    "origin": [
+      [
+        "src/components/Layout/CurrencySelect.js",
+        103
+      ]
+    ]
+  },
+  "all_currencies": {
+    "defaults": "All currencies",
+    "origin": [
+      [
+        "src/components/Layout/CurrencySelect.js",
+        114
+      ]
+    ]
+  }
+}

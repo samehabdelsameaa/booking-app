@@ -1,0 +1,11 @@
+{
+  "hand_picked_packages": {
+    "defaults": "Hand Picked Packages",
+    "origin": [
+      [
+        "src/containers/Home/HandPickedCardsList.js",
+        73
+      ]
+    ]
+  }
+}

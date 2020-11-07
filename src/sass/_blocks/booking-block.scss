@@ -1,0 +1,42 @@
+.booking-block {
+	padding: 30px 22px 20px;
+	display: flex;
+	align-items: center;
+	font-size: 18px;
+	color: #313131;
+	font-weight: 700;
+	background: #ffffff;
+	position: relative;
+
+	&::after {
+		display: block;
+		content: '';
+		position: absolute;
+		height: 1px;
+		width: 95%;
+		margin: 0 auto;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		border-top: 1px dashed #b8b8b8;
+	}
+
+	&--no-sep {
+		&::after {
+			content: none;
+		}
+	}
+
+
+	&__svg {
+		svg {
+			fill: map-get($colors, main);
+			margin-right: 18px;
+
+			[dir="rtl"] & {
+				margin-right: 0;
+				margin-left: 18px;
+			}
+		}
+	}
+}

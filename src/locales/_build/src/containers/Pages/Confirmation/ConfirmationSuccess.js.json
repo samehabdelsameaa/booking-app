@@ -1,0 +1,47 @@
+{
+  "reserve_held_successfully": {
+    "defaults": "Reserve held successfully",
+    "origin": [
+      [
+        "src/containers/Pages/Confirmation/ConfirmationSuccess.js",
+        18
+      ]
+    ]
+  },
+  "your_reservation_has_been_successfully_reserved": {
+    "defaults": "Your reservation has been successfully reserved. We wish you the best rest.",
+    "origin": [
+      [
+        "src/containers/Pages/Confirmation/ConfirmationSuccess.js",
+        21
+      ]
+    ]
+  },
+  "thank_you_for_choosing_us": {
+    "defaults": "Thank you for choosing us.",
+    "origin": [
+      [
+        "src/containers/Pages/Confirmation/ConfirmationSuccess.js",
+        26
+      ]
+    ]
+  },
+  "please_click_here_to_complete_your_e_visa": {
+    "defaults": "Please click here to complete your E-Visa process",
+    "origin": [
+      [
+        "src/containers/Pages/Confirmation/ConfirmationSuccess.js",
+        29
+      ]
+    ]
+  },
+  "maqam": {
+    "defaults": "Maqam",
+    "origin": [
+      [
+        "src/containers/Pages/Confirmation/ConfirmationSuccess.js",
+        31
+      ]
+    ]
+  }
+}

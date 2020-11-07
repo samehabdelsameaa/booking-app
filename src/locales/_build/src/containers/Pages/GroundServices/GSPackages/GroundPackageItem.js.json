@@ -1,0 +1,38 @@
+{
+  "included": {
+    "defaults": "Included",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js",
+        24
+      ]
+    ]
+  },
+  "no_included": {
+    "defaults": "Not Included",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js",
+        26
+      ]
+    ]
+  },
+  "selected": {
+    "defaults": "Selected",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js",
+        35
+      ]
+    ]
+  },
+  "select": {
+    "defaults": "Select",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js",
+        35
+      ]
+    ]
+  }
+}

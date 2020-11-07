@@ -1,0 +1,11 @@
+{
+  "account_details": {
+    "defaults": "Account details",
+    "origin": [
+      [
+        "src/containers/Pages/MyBookings/BookingSideNav.js",
+        13
+      ]
+    ]
+  }
+}

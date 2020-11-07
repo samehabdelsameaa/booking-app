@@ -1,0 +1,99 @@
+{
+  "flight_details": {
+    "defaults": "Flight details",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        16
+      ]
+    ]
+  },
+  "change": {
+    "defaults": "Change",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        23
+      ]
+    ]
+  },
+  "flight": {
+    "defaults": "Flight",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        46
+      ],
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        110
+      ]
+    ]
+  },
+  "class_of_travel": {
+    "defaults": "Class of travel (T)",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        73
+      ],
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        136
+      ]
+    ]
+  },
+  "guest": {
+    "defaults": "Guest",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        76
+      ],
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        139
+      ]
+    ]
+  },
+  "number_of_stops": {
+    "defaults": "Number of stops",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        81
+      ],
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        144
+      ]
+    ]
+  },
+  "baggage": {
+    "defaults": "Baggage",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        160
+      ]
+    ]
+  },
+  "your_baggage_allowance": {
+    "defaults": "Your baggage allowance for international flights",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        168
+      ]
+    ]
+  },
+  "class": {
+    "defaults": "Class",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewFlightReservation.js",
+        168
+      ]
+    ]
+  }
+}

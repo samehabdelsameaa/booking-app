@@ -1,0 +1,47 @@
+{
+  "e_visa_status": {
+    "defaults": "E-VISA status",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js",
+        23
+      ]
+    ]
+  },
+  "visitors": {
+    "defaults": "Visitors",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js",
+        29
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js",
+        31
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js",
+        31
+      ]
+    ]
+  },
+  "cost": {
+    "defaults": "Cost",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js",
+        34
+      ]
+    ]
+  }
+}

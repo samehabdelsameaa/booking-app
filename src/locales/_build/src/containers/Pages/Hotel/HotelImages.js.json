@@ -1,0 +1,38 @@
+{
+  "hotel_address": {
+    "defaults": "Hotel Address",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelImages.js",
+        29
+      ]
+    ]
+  },
+  "view_location_on_map": {
+    "defaults": "View Location on Map",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelImages.js",
+        46
+      ]
+    ]
+  },
+  "distance_from_hotel": {
+    "defaults": "Distance from Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelImages.js",
+        53
+      ]
+    ]
+  },
+  "hotel_amenities": {
+    "defaults": "Hotel Amenities",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelImages.js",
+        63
+      ]
+    ]
+  }
+}

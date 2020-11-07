@@ -1,0 +1,38 @@
+{
+  "who_s_going": {
+    "defaults": "Who's going?",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/index.js",
+        93
+      ]
+    ]
+  },
+  "please_enter_the_details_for_all_travelers...": {
+    "defaults": "Please enter the details for all travelers as shown in your passport. The details provided here will be used for both the flight e-ticket and the hotel voucher.",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/index.js",
+        97
+      ]
+    ]
+  },
+  "back": {
+    "defaults": "Back",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/index.js",
+        124
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/PassengersInfo/index.js",
+        139
+      ]
+    ]
+  }
+}

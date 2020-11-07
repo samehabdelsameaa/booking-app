@@ -1,0 +1,20 @@
+{
+  "back": {
+    "defaults": "Back",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/index.js",
+        222
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/index.js",
+        233
+      ]
+    ]
+  }
+}

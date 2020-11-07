@@ -1,0 +1,38 @@
+{
+  "ground_service": {
+    "defaults": "Ground Service",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js",
+        15
+      ]
+    ]
+  },
+  "package_type": {
+    "defaults": "Package type",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js",
+        21
+      ]
+    ]
+  },
+  "changeable": {
+    "defaults": "Changeable",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js",
+        27
+      ]
+    ]
+  },
+  "cost": {
+    "defaults": "Cost",
+    "origin": [
+      [
+        "src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js",
+        31
+      ]
+    ]
+  }
+}

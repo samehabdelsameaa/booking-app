@@ -1,0 +1,11 @@
+{
+  "special_check_in_instructions": {
+    "defaults": "Special check-in instructions",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelSpecialInstructions.js",
+        12
+      ]
+    ]
+  }
+}

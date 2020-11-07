@@ -1,0 +1,11 @@
+{
+  "loading": {
+    "defaults": "Loading....",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelCardsList.js",
+        12
+      ]
+    ]
+  }
+}

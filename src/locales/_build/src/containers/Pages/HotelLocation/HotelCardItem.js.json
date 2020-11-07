@@ -1,0 +1,11 @@
+{
+  "more_details": {
+    "defaults": "More details",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelCardItem.js",
+        81
+      ]
+    ]
+  }
+}

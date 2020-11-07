@@ -1,0 +1,87 @@
+{
+  "flynas": {
+    "defaults": "Flynas",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        17
+      ]
+    ]
+  },
+  "about_company": {
+    "defaults": "About company",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        29
+      ]
+    ]
+  },
+  "our_achievements": {
+    "defaults": "Our Achievements",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        34
+      ]
+    ]
+  },
+  "news": {
+    "defaults": "News",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        39
+      ]
+    ]
+  },
+  "services": {
+    "defaults": "Services",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        44
+      ]
+    ]
+  },
+  "how_to_book": {
+    "defaults": "How to book",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        49
+      ]
+    ]
+  },
+  "contacts": {
+    "defaults": "Contacts",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        54
+      ]
+    ]
+  },
+  "all_rights_reserved": {
+    "defaults": "All rights reserved",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        64
+      ],
+      [
+        "src/components/Layout/Footer.js",
+        109
+      ]
+    ]
+  },
+  "year_flynas": {
+    "defaults": "2019 Flynas",
+    "origin": [
+      [
+        "src/components/Layout/Footer.js",
+        106
+      ]
+    ]
+  }
+}

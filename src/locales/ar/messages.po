@@ -1,0 +1,1587 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2019-12-26 16:57+0300\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+
+msgid "msgid"
+msgstr "msgstr_ar"
+
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:80
+msgid "Non_refundable"
+msgstr ""
+
+#: src/containers/User/SignIn/ForgotPassword.js:76
+#: src/containers/User/SignIn/SignIn.js:84
+#: src/containers/User/Signup.js:120
+msgid "_and"
+msgstr "و"
+
+#: src/containers/Pages/ContactForm/index.js:45
+msgid "_or"
+msgstr "أو"
+
+#: src/containers/Pages/RoomSummary/RoomPreferences.js:185
+msgid "a_valid_permit_to_perform_hajj_must_be_presented_at_the_airport"
+msgstr "يجب تقديم تصريح ساري المفعول لأداء فريضة الحج في المطار وعند تسجيل الوصول في الفندق من تاريخ 25 يوليو إلى 25 أغسطس. الضيوف الذين لا يحملون تصاريح سارية المفعول، لا يمكنهم تسجيل الوصول أو إصدار بطاقات صعود الطائرة. للإجابة على استفساراتكم فيما يتعلق بالتصاريح، يرجى التواصل مع الفندق أو شركة الطيران مباشرة. تتوفر معلومات الاتصالات في تأكيد الحجز الذي يتم استلامه بعد الحجز."
+
+#: src/components/Layout/Footer.js:29
+msgid "about_company"
+msgstr "نبذة عن الشركة"
+
+#: src/containers/Pages/AboutUs/index.js:22
+msgid "about_us_page_brief_text"
+msgstr "تأسست شركة طيران ناس لخدمات المعتمرين عام 1439هـ\2017م، لخدمة معتمري وزوار بيت الله الحرام والمسجد النبوي والمشاعر المقدسة، حيث توفر مجموعة متنوعة من الخدمات الراقية والمتكاملة سعياً لتقديم الراحة التامة للمعتمرين والزوار ، وذلك لتحقيق رؤية المملكة 2030 التي تهدف إلى زيادة عدد المعتمرين، وإنشاء أسواق جديدة، وتعزيز سياحة ما بعد المعمرة."
+
+#: src/containers/Pages/AboutUs/index.js:19
+msgid "about_us_page_title"
+msgstr "من نحن"
+
+#: src/containers/Pages/MyProfile/ChangePassword.js:102
+msgid "accept_changes"
+msgstr "undefined"
+
+#: src/containers/Pages/MyBookings/BreadCrumbNavBar.js:11
+#: src/containers/Pages/MyBookings/MyBookingsDetails.js:17
+msgid "account"
+msgstr "الحساب"
+
+#: src/containers/Pages/MyBookings/BookingSideNav.js:13
+msgid "account_details"
+msgstr "تفاصيل الحساب"
+
+#: src/containers/Pages/Transportation/AdditionalServices/index.js:18
+msgid "additional_service"
+msgstr "خدمات إضافية"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:567
+msgid "address"
+msgstr "العنوان"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:192
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:137
+#: src/containers/Pages/BookingSummary/EVisaStatus.js:31
+#: src/containers/Pages/BookingSummary/FlightBooking.js:54
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:56
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:50
+#: src/containers/Pages/Hotel/HotelFilters.js:103
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:89
+#: src/containers/Pages/HotelLocation/HotelsSummary.js:90
+#: src/containers/Pages/MyBookings/BookingItem.js:85
+#: src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js:31
+#: src/containers/Pages/PrintableReview/BookingSummary/FlightBooking.js:44
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:56
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:50
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:40
+#: src/containers/Pages/Review/ReviewPassengers.js:40
+#: src/containers/Pages/RoomSummary/HotelSummary.js:110
+msgid "adult"
+msgstr "بالغ"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:20
+#: src/containers/Home/SearchForm/PaxDetails.js:192
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:51
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:137
+#: src/containers/Pages/BookingSummary/EVisaStatus.js:31
+#: src/containers/Pages/BookingSummary/FlightBooking.js:54
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:56
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:50
+#: src/containers/Pages/Hotel/HotelFilters.js:103
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:89
+#: src/containers/Pages/HotelLocation/HotelsSummary.js:90
+#: src/containers/Pages/MyBookings/BookingItem.js:85
+#: src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js:31
+#: src/containers/Pages/PrintableReview/BookingSummary/FlightBooking.js:44
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:56
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:50
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:40
+#: src/containers/Pages/Review/ReviewPassengers.js:40
+#: src/containers/Pages/RoomSummary/HotelSummary.js:110
+msgid "adults"
+msgstr "بالغون"
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:177
+msgid "air_conditioning"
+msgstr "تكييف"
+
+#: src/components/Layout/CurrencySelect.js:114
+msgid "all_currencies"
+msgstr "جميع العملات"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:989
+msgid "all_information_provided_by_the_users"
+msgstr "ملحوظة: جميع المعلومات التي يقدمها المستخدمون محمية بموجب اللائحة العامة لحماية البيانات، ولن يتم استخدامها إلا ضمن شروط وأحكام وبيان خصوصية طيران ناس."
+
+#: src/components/Layout/BurgerMenu.js:125
+#: src/components/Layout/LanguageSelect.js:65
+#: src/components/Layout/MobileMenu.js:46
+msgid "all_languages"
+msgstr "جميع اللغات"
+
+#: src/components/Layout/BurgerMenu.js:73
+#: src/components/Layout/Footer.js:64
+#: src/components/Layout/Footer.js:109
+#: src/components/Layout/MobileMenu.js:681
+msgid "all_rights_reserved"
+msgstr "جميع الحقوق محفوطة"
+
+#: src/containers/User/SignIn/ForgotPassword.js:96
+#: src/containers/User/Signup.js:137
+msgid "already_have_an_account"
+msgstr "تمتلك حسابا"
+
+#: src/containers/Pages/Confirmation/ConfirmationFailure.js:16
+msgid "an_error_occured"
+msgstr "حدث خطأ ما، فشلت عملية الحجز"
+
+#: src/containers/Pages/Review/AgreementAproval.js:19
+msgid "and_the"
+msgstr "و"
+
+#: src/containers/Pages/Flight/FlightPromoCodeForm.js:36
+msgid "apply"
+msgstr "التقديم"
+
+#: src/containers/Pages/AboutUs/index.js:64
+#: src/containers/Pages/AboutUs/index.js:108
+msgid "arrival_and_departure"
+msgstr "الوصول و المغادرة"
+
+#: src/containers/Pages/AboutUs/index.js:145
+#: src/containers/Pages/Achievements/index.js:39
+msgid "arrival_and_departure_service"
+msgstr "خدمة الوصول و المغادرة"
+
+#: src/containers/Pages/Flight/FlightItem.js:161
+msgid "arrives"
+msgstr "وصول"
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:189
+msgid "automatic_gearbox"
+msgstr "ناقل حركة اتوماتيكى"
+
+#: src/containers/Pages/Hotel/HotelRooms/index.js:137
+msgid "available_room_options_to_choose_from"
+msgstr "خيارات الغرف المتاحة في هذا الفندق"
+
+#: src/containers/Pages/Evisa/index.js:90
+#: src/containers/Pages/Flight/index.js:192
+#: src/containers/Pages/GroundServices/index.js:163
+#: src/containers/Pages/Hotel/index.js:222
+#: src/containers/Pages/PassengersInfo/index.js:124
+#: src/containers/Pages/RoomSummary/index.js:156
+#: src/containers/Pages/Transportation/index.js:151
+msgid "back"
+msgstr "العودة"
+
+#: src/containers/Pages/Hotel/HotelFilters.js:56
+msgid "back_on"
+msgstr "العودة إلى"
+
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:152
+#: src/containers/Pages/Review/ReviewFlightReservation.js:160
+msgid "baggage"
+msgstr "الأمتعة"
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:196
+msgid "best_match"
+msgstr "افضل نتيجة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:409
+msgid "birth_date"
+msgstr "تاريخ الميلاد"
+
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:99
+msgid "book_this_package"
+msgstr "حجز هذه الباقة"
+
+#: src/containers/Pages/MyBookings/BookingItem.js:42
+msgid "booking_date"
+msgstr "تاريخ الحجز"
+
+#: src/containers/Pages/MyBookings/BookingItem.js:34
+msgid "booking_ref"
+msgstr "مرجع الحجز"
+
+#: src/containers/Pages/BookingSummary/index.js:67
+#: src/containers/Pages/PrintableReview/BookingSummary/index.js:70
+msgid "booking_summary"
+msgstr "ملخص الحجز"
+
+#: src/containers/Pages/RoomSummary/RoomBookingTerms.js:21
+msgid "booking_terms"
+msgstr "شروط الحجز"
+
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:66
+msgid "breakfast_for"
+msgstr "الفطور لـ"
+
+#: src/containers/Pages/Flight/FlightItem.js:209
+msgid "business"
+msgstr "الأعمال"
+
+#: src/containers/App/CookieGDPR.js:113
+msgid "by_clicking_you_accept"
+msgstr "من خلال الضغط على "أوافق" أو "X" الموجودة على هذا الإعلان، أو استخدام موقعنا الإلكتروني، فإنك توافق على استخدام ملفات تعريف الارتباط إلا في حال قمت بتعطيلها."
+
+#: src/containers/User/SignIn/ForgotPassword.js:72
+#: src/containers/User/SignIn/SignIn.js:80
+#: src/containers/User/Signup.js:116
+msgid "by_signing_in_i_agree"
+msgstr "من خلال تسجيل الدخول، أوافق على"
+
+#: src/containers/Pages/Flight/FlightPackages.js:225
+msgid "cabin_baggage"
+msgstr "أمتعة المقصورة"
+
+#: src/containers/Pages/MyProfile/index.js:250
+#: src/containers/Pages/RoomSummary/RoomPreferencesForm.js:134
+msgid "cancel"
+msgstr "إلغاء"
+
+#: src/containers/Pages/Flight/FlightPackages.js:261
+#: src/containers/Pages/Flight/FlightPackages.js:279
+msgid "cancel_booking"
+msgstr "إلغاء الحجز"
+
+#: src/containers/Pages/AboutUs/index.js:74
+#: src/containers/Pages/AboutUs/index.js:118
+msgid "catering"
+msgstr "تقديم الطعام"
+
+#: src/containers/Pages/AboutUs/index.js:181
+msgid "catering_service"
+msgstr "خدمة تقديم الطعام"
+
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:141
+#: src/containers/Pages/HotelLocation/HotelsSummary.js:115
+#: src/containers/Pages/Review/ReviewFlightReservation.js:23
+#: src/containers/Pages/Review/ReviewGroundServices.js:27
+#: src/containers/Pages/Review/ReviewPassengers.js:50
+#: src/containers/Pages/Review/ReviewTransportation.js:29
+msgid "change"
+msgstr "تغيير"
+
+#: src/containers/Pages/RoomSummary/HotelSummary.js:216
+msgid "change_hotel"
+msgstr "تغيير الفندق"
+
+#: src/containers/Pages/Review/ReviewHotel.js:52
+msgid "change_hotels"
+msgstr "تغيير الفنادق"
+
+#: src/containers/Pages/Hotel/HotelFilters.js:136
+msgid "change_package"
+msgstr "تغيير الباقة"
+
+#: src/containers/Pages/MyProfile/ChangePassword.js:18
+#: src/containers/Pages/MyProfile/index.js:228
+#: src/containers/Pages/MyProfile/index.js:230
+#: src/containers/User/ResetPasswordByEmail.js:45
+msgid "change_password"
+msgstr "تغيير كلمة المرور"
+
+#: src/containers/Pages/MyProfile/index.js:115
+#: src/containers/Pages/MyProfile/index.js:117
+msgid "change_photo"
+msgstr "تغيير الصورة"
+
+#: src/containers/Pages/BookingSummary/GroundServicesBooking.js:28
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:56
+#: src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js:27
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:56
+msgid "changeable"
+msgstr "قابل للتغيير"
+
+#: src/containers/Pages/RoomSummary/HotelSummary.js:70
+msgid "check_in"
+msgstr "تسجيل الوصول"
+
+#: src/containers/Pages/Hotel/HotelCheckIn.js:13
+#: src/containers/Pages/RoomSummary/RoomPreferences.js:206
+msgid "check_in_instructions"
+msgstr "تعليمات تسجيل الوصول"
+
+#: src/containers/Pages/RoomSummary/HotelSummary.js:87
+msgid "check_out"
+msgstr "تسجيل الخروج"
+
+#: src/containers/Pages/Flight/FlightPackages.js:231
+msgid "checked_baggage"
+msgstr "الأمتعة المحجوزة"
+
+#: src/containers/Pages/MyBookings/BookingItem.js:57
+msgid "checkin_date"
+msgstr "تاريخ إصدار بطاقة صعود الطائرة"
+
+#: src/containers/Pages/Evisa/PassengersVisaCheckItem.js:18
+msgid "checking"
+msgstr "جارى الفحص"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:198
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:139
+#: src/containers/Pages/Hotel/HotelFilters.js:110
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:41
+#: src/containers/Pages/Review/ReviewPassengers.js:41
+#: src/containers/Pages/RoomSummary/HotelSummary.js:117
+msgid "child"
+msgstr "طفل"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:67
+#: src/containers/Home/SearchForm/PaxDetails.js:198
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:74
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:139
+#: src/containers/Pages/Hotel/HotelFilters.js:110
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:41
+#: src/containers/Pages/Review/ReviewPassengers.js:41
+#: src/containers/Pages/RoomSummary/HotelSummary.js:117
+msgid "children"
+msgstr "أطفال"
+
+#: src/containers/Pages/Flight/FlightPackages.js:219
+msgid "choose_your_fare"
+msgstr "اختر السعر الذي يناسيك"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:517
+msgid "city"
+msgstr "المدينة"
+
+#: src/containers/Pages/Review/ReviewFlightReservation.js:168
+msgid "class"
+msgstr "الدرجة"
+
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:65
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:128
+#: src/containers/Pages/Review/ReviewFlightReservation.js:73
+#: src/containers/Pages/Review/ReviewFlightReservation.js:136
+msgid "class_of_travel"
+msgstr "درجة السفر"
+
+#: src/containers/Pages/HotelLocation/HotelFilters.js:68
+msgid "comfort_level"
+msgstr "مستوى الرفاهية"
+
+#: src/containers/Pages/Hotel/HotelFilters.js:44
+msgid "coming_from"
+msgstr "قادم من"
+
+#: src/containers/Pages/Review/AgreementAproval.js:35
+msgid "complete_booking"
+msgstr "إكمال الحجز"
+
+#: src/containers/Pages/MyProfile/ChangePassword.js:84
+msgid "confirm_password"
+msgstr ""
+
+#: src/containers/Pages/BookingSummary/index.js:138
+msgid "confirm_payment"
+msgstr ""
+
+#: src/containers/User/CheckYourEmail.js:6
+msgid "confirm_your_email_first"
+msgstr "يرجى تأكيد البريد الإلكتروني أولاً"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:1073
+msgid "contact_number"
+msgstr "رقم التواصل"
+
+#: src/containers/Pages/ContactForm/index.js:66
+msgid "contact_us"
+msgstr "اتصل بنا"
+
+#: src/components/Layout/Footer.js:54
+msgid "contacts"
+msgstr "أرقام التواصل"
+
+#: src/containers/Pages/Evisa/index.js:100
+#: src/containers/Pages/Flight/index.js:203
+#: src/containers/Pages/GroundServices/index.js:176
+#: src/containers/Pages/Hotel/index.js:233
+#: src/containers/Pages/ManageBooking/index.js:78
+#: src/containers/Pages/PassengersInfo/index.js:139
+#: src/containers/Pages/RoomSummary/index.js:166
+#: src/containers/Pages/Transportation/index.js:161
+msgid "continue"
+msgstr "متابعة"
+
+#: src/containers/App/CookieGDPR.js:111
+msgid "cookie_policy"
+msgstr "سياسة ملفات الارتباط"
+
+#: src/containers/Pages/BookingSummary/EVisaStatus.js:35
+#: src/containers/Pages/BookingSummary/GroundServicesBooking.js:33
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:61
+#: src/containers/Pages/Evisa/PassengersVisaCheckItem.js:30
+#: src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js:34
+#: src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js:31
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:61
+#: src/containers/Pages/PrintableReview/ReviewVisaCheck.js:16
+#: src/containers/Pages/Review/ReviewVisaCheck.js:17
+msgid "cost"
+msgstr "التكلفة"
+
+#: src/containers/Pages/BookingSummary/FlightBooking.js:59
+#: src/containers/Pages/PrintableReview/BookingSummary/FlightBooking.js:47
+msgid "cost_of_fly"
+msgstr "تكلفة الطيران"
+
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:75
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:75
+msgid "cost_of_room"
+msgstr "تكلفة الغرفة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:483
+msgid "country"
+msgstr "الدولة"
+
+#: src/containers/Pages/GroundServices/CountriesLookUpForm/index.js:76
+msgid "country_of_residence"
+msgstr "دولة الإقامة"
+
+#: src/components/Layout/LoginStatus.js:34
+#: src/components/Layout/MobileMenu.js:642
+#: src/containers/Pages/ContactForm/index.js:47
+#: src/containers/User/SignIn/SignIn.js:108
+#: src/containers/User/Signup.js:112
+msgid "create_account"
+msgstr "إنشاء حساب"
+
+#: src/components/Layout/CurrencySelect.js:66
+msgid "currency"
+msgstr "العملة"
+
+#: src/containers/Pages/Flight/FlightItem.js:120
+msgid "depart"
+msgstr "مغادرة"
+
+#: src/containers/Pages/HotelLocation/FlightSummary.js:27
+msgid "departing_flight"
+msgstr "رحلة المغادرة"
+
+#: src/containers/Home/SearchForm/AirportDropdown.js:28
+#: src/containers/Home/SearchForm/AirportDropdown.js:45
+#: src/containers/Home/SearchForm/AirportDropdown.js:55
+msgid "departure_airport"
+msgstr "مطار المغادرة"
+
+#: src/containers/Home/SearchForm/CalendarDropdown.js:30
+msgid "departure_date"
+msgstr "تاريخ المغادرة"
+
+#: src/containers/Pages/RoomSummary/RoomPreferences.js:79
+msgid "describe_any_special_requests"
+msgstr "يرجى وصف أي طلبات خاصة (على سبيل المثال: تسجيل الوصول مبكراً، طابق علوي ... إلخ). سيقوم "ترافيل ناو" بتوصيل طلبك إلى الفندق، ولكن هذه الطلبات غير مضمونة وقد لا تكون متوفرة في نوع الغرفة وسعر الغرفة المطلوب. يمكنك الاتصال بالفندق مباشرة قبل موعد إقامتك لتأكيد طلبك الخاص."
+
+#: src/containers/Pages/Hotel/HotelImages.js:53
+msgid "distance_from_hotel"
+msgstr "المسافة من الفندق"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:659
+msgid "district"
+msgstr "المنطقة"
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:138
+msgid "doors"
+msgstr "الأبواب"
+
+#: src/containers/Pages/GroundServices/AdditionalServices/index.js:27
+msgid "duration"
+msgstr "المدة الزمنية"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:951
+#: src/containers/Pages/PassengersInfo/Passengers.js:1014
+msgid "e_mail"
+msgstr "البريد الإلكتروني"
+
+#: src/containers/Pages/Evisa/index.js:74
+#: src/containers/Pages/PrintableReview/ReviewVisaCheck.js:37
+#: src/containers/Pages/Review/ReviewVisaCheck.js:36
+msgid "e_visa"
+msgstr "التأشيرة الإلكترونية"
+
+#: src/containers/Pages/BookingSummary/EVisaStatus.js:23
+#: src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js:23
+msgid "e_visa_status"
+msgstr "حالة التأشيرة الإلكترونية"
+
+#: src/containers/Pages/Flight/FlightItem.js:201
+msgid "economy"
+msgstr "الدرجة الاقتصادية"
+
+#: src/containers/Pages/MyProfile/index.js:159
+msgid "email"
+msgstr "البريد الإلكتروني"
+
+#: src/containers/User/Signup.js:103
+msgid "email_me_exclusive_flynas_promotions"
+msgstr "أرسل لي عروض طيران ناس الترويجية الحصرية. يمكنني إلغاء الاشتراك في أي وقت كما هو منصوص عليه في سياسة الخصوصية."
+
+#: src/components/Layout/MobileMenu.js:15
+#: src/containers/Pages/MyProfile/ChangePassword.js:16
+#: src/containers/Pages/MyProfile/ImageUpload.js:55
+msgid "embrace_umrah"
+msgstr "احجز أفضل الفنادق للعمرة"
+
+#: src/containers/Pages/MyProfile/index.js:244
+msgid "enable_edit"
+msgstr "امكانية التعديل"
+
+#: src/containers/Pages/HotelLocation/CalenadarDropDownFilter.js:46
+msgid "end_date"
+msgstr "تاريخ الانتهاء"
+
+#: src/containers/User/SignIn/ForgotPassword.js:55
+msgid "enter_your_email_address_and_we_will_send_you"
+msgstr "أدخل عنوان بريدك الإلكتروني وسنرسل لك رابطاً لإعادة تعيين كلمة المرور الخاصة بك"
+
+#: src/containers/Pages/Flight/FlightPromoCodeForm.js:41
+msgid "enter_your_promo_code"
+msgstr "أدخل الرمز الترويجي هنا للحصول على الخصومات المتاحة"
+
+#: src/containers/Pages/404/index.js:12
+msgid "error_header"
+msgstr "خطأ"
+
+#: src/containers/Pages/HotelLocation/HotelFilters.js:76
+msgid "facilities"
+msgstr "الخدمات"
+
+#: src/containers/Pages/Evisa/PassengersVisaCheckItem.js:24
+#: src/containers/User/ConfirmEmail.js:18
+msgid "failed"
+msgstr "فشل"
+
+#: src/containers/Pages/Faq/index.js:19
+msgid "faq"
+msgstr "الأسئلة الشائعة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:921
+msgid "fax"
+msgstr "الفاكس"
+
+#: src/containers/Pages/HotelLocation/HotelFilters.js:39
+msgid "filter_by"
+msgstr "التصفية حسب"
+
+#: src/containers/Home/SearchForm/FirstHeadingToCity.js:10
+msgid "first_heading_to"
+msgstr "بداية التوجه"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:319
+msgid "first_name"
+msgstr "الاسم الأول"
+
+#: src/containers/Pages/Flight/FlightItem.js:188
+#: src/containers/Pages/HotelLocation/FlightSummary.js:34
+#: src/containers/Pages/PrintableReview/BookingSummary/FlightBooking.js:22
+#: src/containers/Pages/PrintableReview/BookingSummary/FlightBooking.js:27
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:38
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:102
+#: src/containers/Pages/Review/ReviewFlightReservation.js:46
+#: src/containers/Pages/Review/ReviewFlightReservation.js:110
+msgid "flight"
+msgstr "الرحلة"
+
+#: src/containers/Pages/Flight/index.js:130
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:15
+#: src/containers/Pages/Review/ReviewFlightReservation.js:16
+msgid "flight_details"
+msgstr "تفاصيل الرحلة"
+
+#: src/containers/Pages/HotelLocation/FlightSummary.js:10
+msgid "flight_summary"
+msgstr "ملخص الرحلة"
+
+#: src/components/Layout/BurgerMenu.js:16
+#: src/components/Layout/Footer.js:17
+#: src/components/Layout/MobileMenu.js:14
+#: src/containers/Pages/MyProfile/ChangePassword.js:15
+#: src/containers/Pages/MyProfile/ImageUpload.js:54
+#: src/containers/User/SignIn/index.js:50
+#: src/containers/User/Signup.js:40
+msgid "flynas"
+msgstr "طيران ناس"
+
+#: src/containers/Pages/Achievements/index.js:43
+msgid "flynas_as_one_of_the_main_organizer"
+msgstr "طور طيران ناس، بصفته أحد المنظمين الرئيسيين للحج الفردي عام 1439هـ، باقات خدمات متكاملة تتضمن الاستقبال، والمساعدة عند الوصول /المغادرة، والإقامة، والنقل بين المطارات، ومكة، والمدينة، والمشاعر المقدسة من خلال نظام البوابة الموحدة."
+
+#: src/containers/Pages/Achievements/index.js:68
+msgid "flynas_hajj_and_umrah"
+msgstr "طيران ناس للحج والعمرة"
+
+#: src/containers/Pages/Achievements/index.js:18
+msgid "flynas_has_sponsored_the_hajj"
+msgstr "رعى طيران ناس الدورة الثالثة والأربعين لندوة الحج السنوية الكبرى تحت عنوان "شرف الزمان والمكان .. في طمأنينة وأمان" التي تنظمها وزارة الحج والعمرة كل عام خلال موسم الحج. وتشرف طيران ناس بأن يكون الناقل الجوي الرسمي للندوة، حيث وفر خدمة النقل الجوي ل100 ضيف من ضيوف الندوة من الوزراء والمفتين والعلماء والمشاركين من جميع أنحاء العالم."
+
+#: src/containers/Pages/AboutUs/index.js:50
+msgid "flynas_umrah_services_strives"
+msgstr "تسعى طيران ناس لخدمات المعتمرين لأن تكون الشركة الرائدة والمتميزة بتقديم خدمات العمرة عالية الجودة التي تناسب الجميع."
+
+#: src/containers/Pages/ContactForm/index.js:41
+msgid "for_more_personalized_help"
+msgstr "للحصول على مساعدة أكثر تخصيصاً"
+
+#: src/containers/Pages/AboutUs/index.js:166
+msgid "for_your_convenience_we_provide_recommendation"
+msgstr "لضمان راحتك، نقدم لك خيارات إقامة متنوعة من خلال شركائنا من الفنادق والغرف، التي تبعد بضعة أمتار فقط عن المسجد الحرام وتتميز بتقديم خدمات على مدار 24 ساعة وبأسعار تنافسية."
+
+#: src/containers/User/SignIn/SignIn.js:69
+msgid "forgot_your_password"
+msgstr "هل نسيت كلمة السر الخاصة بك؟"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:70
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:75
+msgid "from_two_to_twelve_years"
+msgstr "من 2 إلى 12 عام"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:455
+msgid "gender"
+msgstr "الجنس"
+
+#: src/containers/Pages/Faq/index.js:20
+msgid "got_a_question"
+msgstr "لديك سؤال؟ لدينا الإجابات"
+
+#: src/containers/Pages/BookingSummary/index.js:121
+#: src/containers/Pages/PrintableReview/BookingSummary/index.js:124
+msgid "grand_total"
+msgstr "المجموع الكلي"
+
+#: src/containers/Pages/BookingSummary/GroundServicesBooking.js:16
+#: src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js:15
+#: src/containers/Pages/PrintableReview/ReviewGroundServices.js:13
+#: src/containers/Pages/Review/ReviewGroundServices.js:18
+msgid "ground_service"
+msgstr "خدمات أرضية"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:279
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:68
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:131
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:51
+#: src/containers/Pages/Review/ReviewFlightReservation.js:76
+#: src/containers/Pages/Review/ReviewFlightReservation.js:139
+#: src/containers/Pages/Review/ReviewPassengers.js:59
+msgid "guest"
+msgstr "ضيف"
+
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:46
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:46
+#: src/containers/Pages/RoomSummary/HotelSummary.js:104
+msgid "guests"
+msgstr "ضيوف"
+
+#: src/containers/Home/HandPickedCardsList.js:73
+msgid "hand_picked_packages"
+msgstr "الباقات المختارة"
+
+#: src/containers/Pages/Flight/FlightPackages.js:251
+#: src/containers/Pages/Flight/FlightPackages.js:268
+#: src/containers/Pages/Flight/FlightPackages.js:287
+msgid "here_is_your_tooltip!"
+msgstr "هذه أداة التلميح الخاصة بك! الاستقبال والترحيب في الفندق"
+
+#: src/containers/Pages/Evisa/index.js:62
+msgid "here_you_can_see_the_status_of_your_visa"
+msgstr "يمكنك هنا رؤية حالة التأشيرة الخاصة بك. إذا كنت بحاجة إلى مساعدة في الحصول على تأشيرة ، يمكننا مساعدتك في ذلك."
+
+#: src/components/Forms/Date/DualCalendar.js:49
+#: src/components/Forms/Date/MonoCalendar.js:39
+msgid "hijri"
+msgstr "هجري"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:763
+msgid "home_phone_dial_code"
+msgstr "هاتف المنزل - مفتاح الاتصال الدولي"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:794
+msgid "home_phone_number"
+msgstr "رقم هاتف المنزل"
+
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:32
+#: src/containers/Pages/Hotel/HotelFilters.js:31
+#: src/containers/Pages/HotelLocation/HotelSearchCriteria.js:40
+#: src/containers/Pages/HotelLocation/HotelsSummary.js:31
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:32
+#: src/containers/Pages/PrintableReview/ReviewHotel.js:41
+#: src/containers/Pages/Review/ReviewHotel.js:76
+#: src/containers/Pages/RoomSummary/HotelSummary.js:207
+msgid "hotel"
+msgstr "الفندق"
+
+#: src/containers/Pages/Hotel/HotelImages.js:29
+msgid "hotel_address"
+msgstr "عنوان الفندق"
+
+#: src/containers/Pages/Hotel/HotelAmenities.js:12
+#: src/containers/Pages/Hotel/HotelImages.js:63
+msgid "hotel_amenities"
+msgstr "وسائل الراحة في الفندق"
+
+#: src/containers/Pages/RoomSummary/HotelSummary.js:162
+msgid "hotel_features"
+msgstr "مميزات الفندق"
+
+#: src/containers/Pages/AboutUs/index.js:69
+#: src/containers/Pages/AboutUs/index.js:113
+msgid "hotels_and_rooms"
+msgstr "الفنادق والغرف"
+
+#: src/containers/Pages/AboutUs/index.js:163
+msgid "hotels_and_rooms_service"
+msgstr "خدمة الفنادق والغرف"
+
+#: src/components/Layout/Footer.js:49
+msgid "how_to_book"
+msgstr "كيفية الحجز"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:982
+msgid "how_we_use_your_information"
+msgstr "كيف نستخدم معلوماتك؟"
+
+#: src/containers/App/CookieGDPR.js:122
+msgid "i_accept"
+msgstr "موافق"
+
+#: src/containers/Pages/RoomSummary/RoomPreferencesForm.js:108
+msgid "if_you_have_additional_requests"
+msgstr "إذا كان لديك طلبات إضافية، يرجى كتابتها أدناه"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:221
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:161
+msgid "include_them_above"
+msgstr "يرجى إدراجها أعلاه للحصول على أفضل الأسعار والتوصيات."
+
+#: src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js:24
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:15
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:27
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:33
+msgid "included"
+msgstr "شاملة"
+
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:88
+msgid "includes_flight_and_hotel_for"
+msgstr "يشمل الطيران + فندق إلى"
+
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:122
+#: src/containers/Pages/RoomSummary/HotelSummary.js:153
+msgid "includes_taxes_and_fees"
+msgstr "يشمل الضرائب والرسوم"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:204
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:145
+#: src/containers/Pages/Hotel/HotelFilters.js:117
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:42
+#: src/containers/Pages/Review/ReviewPassengers.js:42
+#: src/containers/Pages/RoomSummary/HotelSummary.js:124
+msgid "infant"
+msgstr "رضيع"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:101
+#: src/containers/Home/SearchForm/PaxDetails.js:204
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:103
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:145
+#: src/containers/Pages/Hotel/HotelFilters.js:117
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:42
+#: src/containers/Pages/Review/ReviewPassengers.js:42
+#: src/containers/Pages/RoomSummary/HotelSummary.js:124
+msgid "infants"
+msgstr "الرُضَع"
+
+#: src/components/Layout/BurgerMenu.js:104
+#: src/components/Layout/LanguageSelect.js:44
+#: src/components/Layout/MobileMenu.js:25
+msgid "language"
+msgstr "اللغة"
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:151
+msgid "large_bags"
+msgstr "حقائب كبيرة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:379
+#: src/containers/Pages/PassengersInfo/Passengers.js:1046
+msgid "last_name"
+msgstr "اسم العائلة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:277
+msgid "lead_guest"
+msgstr "الضيف الرئيسي"
+
+#: src/components/Layout/BurgerMenu.js:90
+#: src/components/Layout/MobileMenu.js:693
+#: src/containers/Pages/HotelLocation/HotelCardsList.js:12
+#: src/containers/Pages/MyProfile/ChangePassword.js:117
+#: src/containers/Pages/MyProfile/ImageUpload.js:79
+#: src/containers/User/ConfirmEmail.js:18
+#: src/containers/User/SignIn/index.js:100
+#: src/containers/User/Signup.js:163
+msgid "loading"
+msgstr "تحميل"
+
+#: src/containers/Home/Test.js:47
+msgid "login"
+msgstr "تسجيل الدخول"
+
+#: src/components/Layout/LoginStatus.js:14
+#: src/containers/Home/Test.js:45
+msgid "logout"
+msgstr "تسجيل الخروج"
+
+#: src/containers/Home/SearchForm/NightsReseidenceDropdown.js:109
+msgid "madinah"
+msgstr "المدينة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:97
+msgid "main_passenger"
+msgstr "المسافر الرئيسي"
+
+#: src/containers/Pages/ContactForm/index.js:84
+msgid "manage_my_account"
+msgstr "إدارة حسابي"
+
+#: src/components/Layout/ManageMyBooking.js:8
+#: src/containers/Pages/ManageBooking/index.js:16
+msgid "manage_my_booking"
+msgstr "إدارة حجزي"
+
+#: src/containers/Pages/ContactForm/index.js:75
+#: src/containers/Pages/ManageBooking/index.js:25
+msgid "manage_your_booking_online"
+msgstr "إدارة حجزك عبر الإنترنت"
+
+#: src/containers/Pages/Confirmation/ConfirmationSuccess.js:31
+msgid "maqam"
+msgstr "المقام"
+
+#: src/containers/Pages/AboutUs/index.js:84
+#: src/containers/Pages/AboutUs/index.js:128
+#: src/containers/Pages/AboutUs/index.js:216
+msgid "mazarat_and_tours"
+msgstr "المزارات والجولات السياحية"
+
+#: src/containers/Pages/Flight/FlightPackages.js:243
+msgid "meal"
+msgstr "الطعام"
+
+#: src/containers/Home/SearchForm/NightsReseidenceDropdown.js:90
+msgid "mecca"
+msgstr "مكة المكرمة"
+
+#: src/containers/Pages/AboutUs/index.js:148
+msgid "meeting_and_greeting_pilgrims_and_visitors"
+msgstr "استقبال المعتمرين والزوار والترحيب بهم في المطارات ومنافذ الدخول الأخرى بلغات مختلفة، وتقديم خدمات كبار الشخصيات والضيوف ذوي الاحتياجات الخاصة."
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:349
+msgid "middle_name"
+msgstr "الاسم الأوسط"
+
+#: src/containers/Pages/PassengersInfo/DateSelect.js:80
+msgid "mm_dd_yy"
+msgstr "اليوم/الشهر/السنة"
+
+#: src/containers/Pages/HotelLocation/HotelCardItem.js:81
+msgid "more_details"
+msgstr "المزيد من التفاصيل"
+
+#: src/containers/Pages/ContactForm/index.js:79
+msgid "most_bookings_change_requests_can_be_fullfilled"
+msgstr "يمكنك تنفيذ معظم طلبات تغيير الحجوزات شخصياً عبر الإنترنت، وذلك باستخدام صفحة الخدمة الذاتية لإدارة الحجز في موقع طيران ناس."
+
+#: src/containers/Pages/MyBookings/MyBookingsDetails.js:19
+msgid "my_booking"
+msgstr "حجزي"
+
+#: src/containers/Pages/MyProfile/index.js:126
+msgid "name"
+msgstr "الاسم"
+
+#: src/containers/Pages/GroundServices/CountriesLookUpForm/index.js:167
+#: src/containers/Pages/PassengersInfo/Passengers.js:431
+msgid "nationality"
+msgstr "الجنسية"
+
+#: src/containers/Pages/MyProfile/ChangePassword.js:66
+msgid "new_password"
+msgstr "كلمة سر جديد"
+
+#: src/components/Layout/Footer.js:39
+msgid "news"
+msgstr "الاخبار"
+
+#: src/containers/Home/SearchForm/NightsReseidenceDropdown.js:93
+#: src/containers/Home/SearchForm/NightsReseidenceDropdown.js:112
+#: src/containers/Pages/Hotel/HotelFilters.js:72
+#: src/containers/Pages/MyBookings/BookingItem.js:83
+#: src/containers/Pages/RoomSummary/HotelSummary.js:144
+msgid "night"
+msgstr "ليلة"
+
+#: src/containers/Home/HandPickedCard.js:46
+#: src/containers/Home/HandPickedCard.js:50
+#: src/containers/Home/SearchForm/NightsReseidenceDropdown.js:81
+#: src/containers/Home/SearchForm/NightsReseidenceDropdown.js:93
+#: src/containers/Home/SearchForm/NightsReseidenceDropdown.js:112
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:65
+#: src/containers/Pages/Hotel/HotelFilters.js:73
+#: src/containers/Pages/MyBookings/BookingItem.js:83
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:65
+#: src/containers/Pages/RoomSummary/HotelSummary.js:140
+#: src/containers/Pages/RoomSummary/HotelSummary.js:144
+msgid "nights"
+msgstr "ليالى"
+
+#: src/containers/User/SignIn/SignIn.js:104
+msgid "no_account_yet"
+msgstr "لا تمتلك حساباً حتى الآن؟"
+
+#: src/containers/Pages/Flight/index.js:140
+msgid "no_flights_available"
+msgstr "لا يوجد رحلات متاحة، فضلاً اختر تواريخ أخرى"
+
+#: src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js:26
+msgid "no_included"
+msgstr "غير شاملة"
+
+#: src/containers/Pages/404/index.js:19
+msgid "not_found"
+msgstr "غير موجود"
+
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:15
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:27
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:33
+msgid "not_included"
+msgstr "غير شاملة"
+
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:73
+#: src/containers/Pages/PrintableReview/ReviewFlightReservation.js:136
+#: src/containers/Pages/Review/ReviewFlightReservation.js:81
+#: src/containers/Pages/Review/ReviewFlightReservation.js:144
+msgid "number_of_stops"
+msgstr "عدد التوقفات"
+
+#: src/containers/Pages/MyProfile/ChangePassword.js:48
+msgid "old_password"
+msgstr "كلمة سر قديم"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:922
+msgid "optional"
+msgstr "اختيارى"
+
+#: src/containers/Pages/MyBookings/index.js:111
+msgid "order_by"
+msgstr "الترتيب حسب"
+
+#: src/components/Layout/Footer.js:34
+#: src/containers/Pages/Achievements/index.js:16
+#: src/containers/Pages/OurAchievements/index.js:7
+msgid "our_achievements"
+msgstr "إنجازاتنا"
+
+#: src/containers/Pages/ContactForm/index.js:95
+msgid "our_customer_service"
+msgstr "يسر فريق خدمة عملاء طيران ناس مساعدتك في أي وقت، ولكن لإدارة الحجوزات الأساسية، فمن الأسرع والأسهل استخدام ...."
+
+#: src/containers/Pages/AboutUs/index.js:59
+#: src/containers/Pages/AboutUs/index.js:103
+msgid "our_services"
+msgstr "خدماتنا"
+
+#: src/containers/Pages/AboutUs/index.js:47
+msgid "our_vision"
+msgstr "رؤيتنا"
+
+#: src/containers/Pages/BookingSummary/GroundServicesBooking.js:23
+#: src/containers/Pages/GroundServices/GSPackages/GroundPackages.js:41
+#: src/containers/Pages/PrintableReview/BookingSummary/GroundServicesBooking.js:21
+#: src/containers/Pages/PrintableReview/ReviewTransportation.js:28
+#: src/containers/Pages/Review/ReviewTransportation.js:38
+#: src/containers/Pages/Transportation/Packages/TransportationPackageList.js:44
+msgid "package_type"
+msgstr "نوع الباقة"
+
+#: src/containers/Pages/AboutUs/index.js:32
+msgid "pages.aboutus.flynas_img_caption"
+msgstr "طيران ناس"
+
+#: src/containers/Pages/AboutUs/index.js:229
+msgid "pages.aboutus.service_img_caption"
+msgstr "الخدمات"
+
+#: src/containers/Pages/AboutUs/index.js:92
+msgid "pages.aboutus.vision_img_caption"
+msgstr "الرؤية"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:891
+msgid "passport_expiry_date"
+msgstr "تاريخ انتهاء جواز السفر"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:865
+msgid "passport_issuing_date"
+msgstr "تاريخ إصدار جواز السفر"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:832
+msgid "passport_number"
+msgstr "رقم جواز السفر"
+
+#: src/containers/User/SignIn/ForgotPassword.js:90
+msgid "password_recovery"
+msgstr "استعادة كلمة المرور"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:268
+msgid "person"
+msgstr "شخص"
+
+#: src/containers/Pages/MyProfile/index.js:192
+msgid "phone"
+msgstr "هاتف"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:695
+msgid "phone_dial_code"
+msgstr "رمز اتصال الدولة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:726
+msgid "phone_number"
+msgstr "رقم الهاتف"
+
+#: src/containers/Pages/Hotel/HotelFilters.js:122
+msgid "piligrim"
+msgstr "معتمر/حاج"
+
+#: src/containers/Pages/Confirmation/ConfirmationSuccess.js:29
+msgid "please_click_here_to_complete_your_e_visa"
+msgstr "فضلاً، اضغط هنا لإكمال عملية التأشيرة الإلكترونية الخاصة بك"
+
+#: src/containers/Pages/PassengersInfo/index.js:97
+msgid "please_enter_the_details_for_all_travelers..."
+msgstr "الرجاء إدخال تفاصيل جميع المسافرين كما هو موضح في جواز السفر. سيتم استخدام التفاصيل الواردة هنا لكل من تذكرة الرحلة الإلكترونية وقسيمة الفندق."
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:1001
+msgid "please_provide_contact_details_for_your_itinerary"
+msgstr "يرجى تقديم تفاصيل الاتصال لبرنامج رحلتك. سيتم إرسال تأكيد الحجز وجميع التفاصيل من خلال المعلومات التي تقدمها هنا."
+
+#: src/components/Forms/Date/DualCalendar.js:22
+msgid "please_select_checkin_date"
+msgstr "الرجاء اختيار موعد تسجيل الوصول"
+
+#: src/components/Forms/Date/DualCalendar.js:23
+msgid "please_select_checkout_date"
+msgstr "الرجاء اختيار موعد تسجيل الخروج"
+
+#: src/components/Layout/CurrencySelect.js:103
+msgid "popular_currencies"
+msgstr "العملات الشائعة"
+
+#: src/components/Layout/CurrencySelect.js:73
+msgid "price_display"
+msgstr "عرض السعر"
+
+#: src/containers/Pages/Review/AgreementAproval.js:21
+#: src/containers/User/SignIn/ForgotPassword.js:78
+#: src/containers/User/SignIn/SignIn.js:86
+#: src/containers/User/Signup.js:122
+msgid "privacy_policy"
+msgstr "سياسة الخصوصية"
+
+#: src/containers/Pages/ContactForm/index.js:93
+msgid "pro_tip"
+msgstr "نصيحة"
+
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:93
+msgid "proceed_to_checkout"
+msgstr "مباشرة إجراءات الخروج من الفندق"
+
+#: src/containers/Pages/GroundServices/AdditionalServices/index.js:24
+#: src/containers/Pages/Transportation/VehiclesTypes/VehicleCompanyItem.js:51
+msgid "qty"
+msgstr "الكمية"
+
+#: src/containers/Pages/PrintableReview/ReviewTransportation.js:62
+#: src/containers/Pages/Review/ReviewTransportation.js:74
+msgid "quantity"
+msgstr "الكمية"
+
+#: src/containers/Pages/Flight/PackageTypeItem.js:44
+msgid "recommended"
+msgstr "موصى به"
+
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:70
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:74
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:70
+msgid "refundable"
+msgstr "مسترد"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:253
+msgid "remove"
+msgstr "حذف"
+
+#: src/containers/Pages/ContactForm/index.js:176
+msgid "required-fields_indicated_with"
+msgstr "الحقول المطلوبة مشار إليها بـ"
+
+#: src/containers/Pages/Confirmation/ConfirmationSuccess.js:18
+msgid "reserve_held_successfully"
+msgstr "تم الحجز بنجاح"
+
+#: src/containers/Pages/ManageBooking/index.js:17
+msgid "retrieve_your_booking_information"
+msgstr "استرجاع معلومات الحجز الخاصة بك."
+
+#: src/containers/Pages/HotelLocation/FlightSummary.js:29
+msgid "returning_flight"
+msgstr "رحلة العودة"
+
+#: src/containers/App/CookieGDPR.js:99
+msgid "review_our_cookie_policy"
+msgstr "استعراض سياسة ملفات الارتباط الخاصة بنا"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:210
+#: src/containers/Home/SearchForm/PaxDetails.js:235
+#: src/containers/Home/SearchForm/PaxDetails.js:245
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:142
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:50
+#: src/containers/Pages/Hotel/HotelFilters.js:85
+#: src/containers/Pages/HotelLocation/HotelsSummary.js:84
+#: src/containers/Pages/MyBookings/BookingItem.js:84
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:50
+#: src/containers/Pages/RoomSummary/HotelSummary.js:135
+#: src/containers/Pages/RoomSummary/RoomPreferences.js:73
+msgid "room"
+msgstr "غرفة"
+
+#: src/containers/Pages/RoomSummary/RoomPreferences.js:94
+msgid "room_amenities"
+msgstr "وسائل الراحة في الغرفة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:269
+msgid "room_no"
+msgstr "رقم الغرفة"
+
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:189
+msgid "room_options"
+msgstr "خيارات الغرف"
+
+#: src/containers/Pages/RoomSummary/RoomPreferences.js:22
+msgid "room_preferences"
+msgstr "تفضيلات الغرفة"
+
+#: src/containers/Pages/RoomSummary/HotelSummary.js:149
+msgid "room_type"
+msgstr "نوع الغرفة"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:210
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:20
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:142
+#: src/containers/Pages/BookingSummary/HotelsBooking.js:50
+#: src/containers/Pages/Hotel/HotelFilters.js:85
+#: src/containers/Pages/HotelLocation/HotelsSummary.js:84
+#: src/containers/Pages/MyBookings/BookingItem.js:84
+#: src/containers/Pages/PrintableReview/BookingSummary/HotelsBooking.js:50
+#: src/containers/Pages/RoomSummary/HotelSummary.js:131
+#: src/containers/Pages/RoomSummary/HotelSummary.js:135
+msgid "rooms"
+msgstr "غرف"
+
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:30
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:47
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:30
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:47
+msgid "route"
+msgstr "المسار"
+
+#: src/containers/Pages/RoomSummary/RoomPreferencesForm.js:138
+msgid "save_changes"
+msgstr "حفظ التغييرات"
+
+#: src/containers/Home/SearchForm/index.js:110
+#: src/containers/Pages/GroundServices/index.js:143
+#: src/containers/Pages/Transportation/index.js:131
+msgid "search"
+msgstr "بحث"
+
+#: src/containers/Pages/Flight/FlightPackages.js:237
+msgid "seat_selection"
+msgstr "اختيار المقعد"
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:125
+msgid "seats"
+msgstr "المقاعد"
+
+#: src/containers/Pages/Flight/FlightItem.js:287
+#: src/containers/Pages/Flight/FlightItem.js:370
+msgid "seats_left"
+msgstr "المقاعد المتبقية"
+
+#: src/containers/Pages/GroundServices/Companies/GroundServicesCompanyItem.js:67
+#: src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js:35
+#: src/containers/Pages/HotelLocation/HotelSearchCriteria.js:40
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:38
+#: src/containers/Pages/Transportation/Routes/Route.js:40
+#: src/containers/Pages/Transportation/VehiclesTypes/VehicleCompanyItem.js:81
+msgid "select"
+msgstr "اختر"
+
+#: src/containers/Pages/ContactForm/index.js:22
+msgid "select_an_option"
+msgstr "حدد اختياراً"
+
+#: src/containers/Pages/GroundServices/Companies/GroundServicesCompanyList.js:29
+msgid "select_company"
+msgstr "اختر شركة"
+
+#: src/containers/Pages/GroundServices/GSPackages/GroundPackages.js:31
+msgid "select_ground_service_package"
+msgstr "اختر باقة الخدمات الأرضية"
+
+#: src/containers/Pages/Transportation/Routes/Routes.js:36
+msgid "select_route"
+msgstr "اختر مساراً"
+
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:135
+msgid "select_this_room"
+msgstr "اختر هذه الغرفة"
+
+#: src/containers/Pages/Transportation/Packages/TransportationPackageList.js:33
+msgid "select_transportation_package"
+msgstr "اختر باقة نقل"
+
+#: src/containers/Pages/MyProfile/ImageUpload.js:64
+msgid "select_your_image"
+msgstr "اختر صورتك"
+
+#: src/containers/Pages/GroundServices/Companies/GroundServicesCompanyItem.js:67
+#: src/containers/Pages/GroundServices/GSPackages/GroundPackageItem.js:35
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:38
+#: src/containers/Pages/Transportation/Routes/Route.js:40
+#: src/containers/Pages/Transportation/VehiclesTypes/VehicleCompanyItem.js:81
+msgid "selected"
+msgstr "مختار/ة"
+
+#: src/containers/Pages/PrintableReview/ReviewGroundServices.js:19
+#: src/containers/Pages/Review/ReviewGroundServices.js:37
+msgid "selected_type"
+msgstr "النوع المختار"
+
+#: src/containers/Pages/PrintableReview/ReviewTransportation.js:34
+#: src/containers/Pages/Review/ReviewTransportation.js:44
+msgid "selected_vechicle_type"
+msgstr "نوع السيارة المختارة"
+
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:49
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:49
+msgid "selected_vehicle"
+msgstr "السيارة المختارة"
+
+#: src/containers/Pages/ContactForm/index.js:100
+msgid "self_service_tool"
+msgstr "أداة الخدمة الذاتية"
+
+#: src/containers/Pages/ContactForm/index.js:181
+msgid "send_email"
+msgstr "إرسال بريد إلكتروني"
+
+#: src/containers/Pages/GroundServices/AdditionalServices/index.js:20
+msgid "service"
+msgstr "خدمة"
+
+#: src/components/Layout/Footer.js:44
+msgid "services"
+msgstr "خدمات"
+
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:176
+msgid "show_room_amenities"
+msgstr "استعراض وسائل الرائحة المتوفرة في الغرفة"
+
+#: src/components/Layout/LoginStatus.js:31
+#: src/components/Layout/MobileMenu.js:641
+#: src/containers/Pages/ContactForm/index.js:43
+#: src/containers/User/SignIn/ForgotPassword.js:100
+#: src/containers/User/SignIn/SignIn.js:75
+#: src/containers/User/Signup.js:139
+msgid "sign_in"
+msgstr "تسجيل الدخول"
+
+#: src/containers/User/SignIn/SignIn.js:30
+#: src/containers/User/SignIn/SignIn.js:98
+msgid "sign_in_with_one_click"
+msgstr "تسجيل الدخول بضغطة واحدة"
+
+#: src/containers/User/Signup.js:45
+#: src/containers/User/Signup.js:133
+msgid "sign_up"
+msgstr "الانضمام"
+
+#: src/containers/Pages/Achievements/index.js:73
+msgid "signing_Memorandum_of_Understanding"
+msgstr "يأتي توقيع مذكرة التفاهم بين وزارة الحج والعمرة وطيران ناس للحج والعمرة تماشياً مع رؤية السعودية 2030 التي تخدم برنامج ضيوف الرحمن وتهدف إلى زيادة عدد الحجاج والمعتمرين وتحسين جودة الخدمات، والسماح للحاج والمعتمر بإنشاء باقات بنفسه."
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:164
+msgid "small_bags"
+msgstr "حقيبة صغيرة"
+
+#: src/containers/Pages/Flight/FlightPackages.js:298
+msgid "smile_points"
+msgstr "نقاط سمايلز"
+
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:209
+msgid "sort_by"
+msgstr "الترتيب حسب"
+
+#: src/containers/Pages/Hotel/HotelSpecialInstructions.js:12
+#: src/containers/Pages/RoomSummary/RoomPreferences.js:180
+msgid "special_check_in_instructions"
+msgstr "تعليمات خاصة لتسجيل الوصول"
+
+#: src/containers/Pages/Hotel/HotelFeatures.js:12
+msgid "special_features"
+msgstr "مزايا خاصة"
+
+#: src/containers/Pages/HotelLocation/CalenadarDropDownFilter.js:37
+msgid "start_date"
+msgstr "تاريخ البدء"
+
+#: src/containers/Home/HandPickedCard.js:67
+msgid "starts_from"
+msgstr "يبدأ من"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:599
+msgid "state"
+msgstr "الدولة"
+
+#: src/containers/Pages/Flight/FlightItem.js:143
+msgid "stops"
+msgstr "التوقفات"
+
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:110
+msgid "sub_total"
+msgstr "المبلغ الإجمالي"
+
+#: src/containers/Pages/PreloaderPage/LoaderTestSample.js:38
+#: src/containers/User/SignIn/ForgotPassword.js:67
+msgid "submit"
+msgstr "إرسال"
+
+#: src/components/Layout/CurrencySelect.js:89
+msgid "suggested_currencies"
+msgstr "العملات المقترحة"
+
+#: src/components/Layout/BurgerMenu.js:109
+#: src/components/Layout/LanguageSelect.js:50
+#: src/components/Layout/MobileMenu.js:31
+msgid "suggested_languages"
+msgstr "اللغات المقترحة"
+
+#: src/containers/Pages/MyBookings/BookingItem.js:81
+msgid "summary"
+msgstr "ملخص"
+
+#: src/containers/Pages/Review/AgreementAproval.js:17
+#: src/containers/User/SignIn/ForgotPassword.js:74
+#: src/containers/User/SignIn/SignIn.js:82
+#: src/containers/User/Signup.js:118
+msgid "terms_of_use"
+msgstr "شروط الاستخدام"
+
+#: src/containers/Pages/Confirmation/ConfirmationSuccess.js:26
+msgid "thank_you_for_choosing_us"
+msgstr "شكراً لك لاختيارنا."
+
+#: src/containers/Pages/BookingSummary/index.js:117
+#: src/containers/Pages/PrintableReview/BookingSummary/index.js:120
+msgid "the_price_quoted_includes_5%_vat"
+msgstr "السعر المعروض يشمل ضريبة القيمة المضافة 5 ٪."
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:303
+msgid "title"
+msgstr "العنوان"
+
+#: src/containers/Pages/AboutUs/index.js:184
+msgid "to_enrich_your_visit"
+msgstr "لإثراء زيارتك ، يسعدنا أن نقدم لك الوجبات الجاهزة وبوفيه الماكولات العالمية."
+
+#: src/containers/Pages/Faq/index.js:22
+msgid "to_save_you_time"
+msgstr "لتوفير الوقت، نقدم هنا إجابات وافية على أكثر الاستفسارات شيوعاً. ما عليك سوى الضغط على الفئة والبحث عن سؤالك."
+
+#: src/components/Forms/Date/DualCalendar.js:35
+#: src/components/Forms/Date/MonoCalendar.js:25
+msgid "today"
+msgstr "اليوم"
+
+#: src/containers/Pages/Hotel/HotelRooms/RoomGroup/index.js:195
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:122
+#: src/containers/Pages/HotelLocation/HotelsSummary.js:99
+msgid "total"
+msgstr "المجموع"
+
+#: src/containers/Pages/MyBookings/BookingItem.js:72
+msgid "total_value"
+msgstr "القيمة الإجمالية"
+
+#: src/containers/Pages/AboutUs/index.js:79
+#: src/containers/Pages/AboutUs/index.js:123
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:15
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:15
+msgid "transportation"
+msgstr "النقل"
+
+#: src/containers/Pages/BookingSummary/TransportationBooking.js:22
+#: src/containers/Pages/PrintableReview/BookingSummary/TransportationBooking.js:22
+#: src/containers/Pages/PrintableReview/ReviewTransportation.js:19
+#: src/containers/Pages/Review/ReviewTransportation.js:20
+msgid "transportation_package"
+msgstr "باقة النقل"
+
+#: src/containers/Pages/AboutUs/index.js:198
+msgid "transportation_service"
+msgstr "خدمة النقل"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:218
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:158
+msgid "traveling_with_kids"
+msgstr "هل تسافر مع أطفال؟"
+
+#: src/containers/Home/SearchForm/FirstHeadingToCity.js:16
+msgid "travelling_starting_point_tooltip_info_text"
+msgstr "اختر المدينة التي تبدأ بها رحلتك"
+
+#: src/containers/Home/SearchForm/PaxDetails.js:104
+#: src/containers/Home/SearchForm/VisitorsDropdown.js:104
+msgid "under_two_years"
+msgstr "أقل من سنتين"
+
+#: src/containers/Pages/HotelLocation/HotelSearchCriteria.js:50
+#: src/containers/Pages/MyProfile/index.js:253
+msgid "update"
+msgstr "تحديث"
+
+#: src/containers/Pages/MyProfile/ImageUpload.js:57
+msgid "upload_avatar"
+msgstr "تحميل الصورة الشخصية"
+
+#: src/containers/Pages/MyProfile/ImageUpload.js:67
+msgid "upload_image"
+msgstr "تحميل الصورة"
+
+#: src/containers/Pages/Transportation/Packages/TransportationPackageItem.js:21
+#: src/containers/Pages/Transportation/VehiclesTypes/index.js:88
+msgid "vehicle_types"
+msgstr "نوع السيارة"
+
+#: src/containers/Pages/Hotel/HotelImages.js:46
+msgid "view_location_on_map"
+msgstr "عرض الموقع على الخريطة"
+
+#: src/containers/Pages/BookingSummary/EVisaStatus.js:29
+#: src/containers/Pages/PrintableReview/BookingSummary/EVisaStatus.js:29
+msgid "visitors"
+msgstr "الزوار"
+
+#: src/containers/Pages/AboutUs/index.js:219
+msgid "we_are_pleased_to_arrange_visits"
+msgstr "يسعدنا ترتيب زيارات لأهم المعالم الدينية والسياحية والتراثية في المملكة العربية السعودية لإثراء سياحة ما بعد العمرة."
+
+#: src/containers/Pages/AboutUs/index.js:201
+msgid "we_are_pleased_to_provide_transportation"
+msgstr "يسرنا أن نقدم أحدث وسائل النقل، مثل الحافلات والسيارات من مختلف الفئات من شركات النقل الشهيرة، بالإضافة إلى تذاكر قطار الحرمين السريع."
+
+#: src/containers/Pages/RoomSummary/RoomPreferencesForm.js:121
+msgid "we_pass_on_all_special_requests_to_the_property"
+msgstr "نحرص على إيصال كافة طلباتك الخاصة إلى مكان الإقامة، ولكن لا يمكننا ضمان إمكانية تنفيذها. تخضع بعض الطلبات للتوافر عند تسجيل الوصول، وقد تترتب عليها رسوم اضافيه."
+
+#: src/containers/App/CookieGDPR.js:106
+msgid "we_use_cookies_and_similar_technology"
+msgstr "نستخدم ملفات تعريف الارتباط والتقنيات المشابهة للتعرف على زياراتك المتكررة وتفضيلاتك، وكذلك لقياس مدى فاعلية الحملات وتحليل حركة الزيارات. لمعرفة المزيد حول ملفات تعريف الارتباط وكيفية تعطيلها، تفضل بزيارة ...."
+
+#: src/containers/Pages/ContactForm/index.js:69
+msgid "welcome_to_flynas_what_can_we_do"
+msgstr "مرحباً بك في طيران ناس؟ كيف يمكننا خدمتك؟"
+
+#: src/containers/Home/Test.js:41
+msgid "welcome_to_umrah_services"
+msgstr "أهلا بك في خدمات المعتمرين"
+
+#: src/containers/App/CookieGDPR.js:103
+msgid "what_do_we_use_cookies_for"
+msgstr "لماذا نستخدم ملفات تعريف الارتباط؟"
+
+#: src/containers/Pages/Hotel/HotelMap.js:19
+msgid "what_s_around"
+msgstr "ما حول الفندق"
+
+#: src/containers/Pages/PrintableReview/index.js:46
+#: src/containers/Pages/Review/index.js:66
+msgid "what_you_have_selected"
+msgstr "ما قمت باختياره"
+
+#: src/containers/Pages/BookingSummary/FlightBooking.js:51
+#: src/containers/Pages/PassengersInfo/index.js:93
+#: src/containers/Pages/PrintableReview/BookingSummary/FlightBooking.js:42
+#: src/containers/Pages/PrintableReview/ReviewPassengers.js:38
+#: src/containers/Pages/Review/ReviewPassengers.js:38
+msgid "who_s_going"
+msgstr "من سيذهب؟"
+
+#: src/components/Layout/Footer.js:106
+msgid "year_flynas"
+msgstr "طيران ناس 2019"
+
+#: src/containers/Pages/Review/AgreementAproval.js:15
+msgid "yes_i_accept_the"
+msgstr "نعم، أوافق على"
+
+#: src/containers/Pages/Hotel/HotelRooms/index.js:142
+msgid "you_dont_have_available_rooms"
+msgstr "لا يوجد لديك غرف متاحة"
+
+#: src/containers/Pages/Hotel/HotelRooms/index.js:135
+msgid "you_have"
+msgstr "لديك"
+
+#: src/containers/Pages/Confirmation/ConfirmationFailure.js:20
+msgid "you_have_problem_filling_out"
+msgstr "لمزيد من المعلومات، يرجى التواصل مع فريق الدعم"
+
+#: src/containers/Pages/BookingSummary/index.js:107
+#: src/containers/Pages/PrintableReview/BookingSummary/index.js:110
+msgid "you_will_be_charged_in"
+msgstr "ستترتب عليك رسوم ....."
+
+#: src/containers/Pages/Review/ReviewFlightReservation.js:168
+msgid "your_baggage_allowance"
+msgstr "الأمتعة المسموح بها للرحلات الدولية"
+
+#: src/containers/Pages/Evisa/index.js:58
+msgid "your_e_visa_status"
+msgstr "حالة التأشيرة الإلكترونية الخاصة بك"
+
+#: src/containers/Pages/BookingSummary/FlightBooking.js:23
+#: src/containers/Pages/PrintableReview/BookingSummary/FlightBooking.js:18
+msgid "your_flight"
+msgstr "رحلتك"
+
+#: src/containers/Pages/PrintableReview/ReviewHotel.js:20
+#: src/containers/Pages/Review/ReviewHotel.js:43
+msgid "your_hotel"
+msgstr "إقامتك الفندقية"
+
+#: src/containers/Pages/HotelLocation/HotelBookingSummary.js:79
+msgid "your_package_cost"
+msgstr "تكلفة باقتك"
+
+#: src/containers/Pages/Confirmation/ConfirmationSuccess.js:21
+msgid "your_reservation_has_been_successfully_reserved"
+msgstr "تم الحجز بنجاح، نتمنى لك رحلة سعيدة"
+
+#: src/containers/Pages/PassengersInfo/Passengers.js:629
+msgid "zip_code"
+msgstr "الرمز البريدي"

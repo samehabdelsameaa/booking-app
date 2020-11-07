@@ -1,0 +1,83 @@
+{
+  "who_s_going": {
+    "defaults": "Who's going?",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        38
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        40
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        40
+      ]
+    ]
+  },
+  "child": {
+    "defaults": "Child",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        41
+      ]
+    ]
+  },
+  "children": {
+    "defaults": "Children",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        41
+      ]
+    ]
+  },
+  "infant": {
+    "defaults": "Infant",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        42
+      ]
+    ]
+  },
+  "infants": {
+    "defaults": "Infants",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        42
+      ]
+    ]
+  },
+  "change": {
+    "defaults": "Change",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        50
+      ]
+    ]
+  },
+  "guest": {
+    "defaults": "Guest",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewPassengers.js",
+        59
+      ]
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "cost": {
+    "defaults": "Cost",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewVisaCheck.js",
+        17
+      ]
+    ]
+  },
+  "e_visa": {
+    "defaults": "E-VISA",
+    "origin": [
+      [
+        "src/containers/Pages/Review/ReviewVisaCheck.js",
+        36
+      ]
+    ]
+  }
+}

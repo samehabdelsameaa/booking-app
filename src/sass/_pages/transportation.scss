@@ -1,0 +1,15 @@
+.transport {
+	padding-top: 40px;
+	background-color: #f8f8f8;
+
+	&__content {
+		@include media(def) {
+			margin-right: 10px;
+
+			[dir="rtl"] & {
+				margin-right: 0;
+				margin-left: 10px;
+			}
+		}
+	}
+}

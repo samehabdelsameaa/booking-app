@@ -1,0 +1,38 @@
+{
+  "flight_details": {
+    "defaults": "Flight details",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/index.js",
+        130
+      ]
+    ]
+  },
+  "no_flights_available": {
+    "defaults": "No Flights available, try another dates",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/index.js",
+        140
+      ]
+    ]
+  },
+  "back": {
+    "defaults": "Back",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/index.js",
+        192
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/index.js",
+        203
+      ]
+    ]
+  }
+}

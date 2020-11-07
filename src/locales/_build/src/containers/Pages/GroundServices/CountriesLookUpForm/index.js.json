@@ -1,0 +1,20 @@
+{
+  "country_of_residence": {
+    "defaults": "Country Of Residence",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/CountriesLookUpForm/index.js",
+        76
+      ]
+    ]
+  },
+  "nationality": {
+    "defaults": "Nationality",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/CountriesLookUpForm/index.js",
+        167
+      ]
+    ]
+  }
+}

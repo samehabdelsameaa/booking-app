@@ -1,0 +1,11 @@
+{
+  "hotel_amenities": {
+    "defaults": "Hotel Amenities",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelAmenities.js",
+        12
+      ]
+    ]
+  }
+}

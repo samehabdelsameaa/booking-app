@@ -1,0 +1,29 @@
+{
+  "welcome_to_umrah_services": {
+    "defaults": "Welcome To Umrah services",
+    "origin": [
+      [
+        "src/containers/Home/Test.js",
+        41
+      ]
+    ]
+  },
+  "logout": {
+    "defaults": "Logout",
+    "origin": [
+      [
+        "src/containers/Home/Test.js",
+        45
+      ]
+    ]
+  },
+  "login": {
+    "defaults": "Login",
+    "origin": [
+      [
+        "src/containers/Home/Test.js",
+        47
+      ]
+    ]
+  }
+}

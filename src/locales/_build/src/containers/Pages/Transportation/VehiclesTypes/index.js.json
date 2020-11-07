@@ -1,0 +1,83 @@
+{
+  "vehicle_types": {
+    "defaults": "Vehicle Types",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        88
+      ]
+    ]
+  },
+  "seats": {
+    "defaults": "Seats",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        125
+      ]
+    ]
+  },
+  "doors": {
+    "defaults": "Doors",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        138
+      ]
+    ]
+  },
+  "large_bags": {
+    "defaults": "Large bags",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        151
+      ]
+    ]
+  },
+  "small_bags": {
+    "defaults": "Small bag",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        164
+      ]
+    ]
+  },
+  "air_conditioning": {
+    "defaults": "Air Conditioning",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        177
+      ]
+    ]
+  },
+  "automatic_gearbox": {
+    "defaults": "Automatic gearbox",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        189
+      ]
+    ]
+  },
+  "best_match": {
+    "defaults": "Best Match",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        196
+      ]
+    ]
+  },
+  "sort_by": {
+    "defaults": "Sort by",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/VehiclesTypes/index.js",
+        209
+      ]
+    ]
+  }
+}

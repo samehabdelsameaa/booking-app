@@ -1,0 +1,11 @@
+{
+  "manage_my_booking": {
+    "defaults": "Manage My Booking",
+    "origin": [
+      [
+        "src/components/Layout/ManageMyBooking.js",
+        8
+      ]
+    ]
+  }
+}

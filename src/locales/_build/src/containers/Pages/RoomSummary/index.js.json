@@ -1,0 +1,20 @@
+{
+  "back": {
+    "defaults": "Back",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/index.js",
+        156
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/index.js",
+        166
+      ]
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "if_you_have_additional_requests": {
+    "defaults": "If you have additional requests, please type below",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferencesForm.js",
+        108
+      ]
+    ]
+  },
+  "we_pass_on_all_special_requests_to_the_property": {
+    "defaults": "We pass on all special requests to the property, but cannot guarantee they can be accommodated. Some requests are subject to availability at check-in, and may incur additional charges.",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferencesForm.js",
+        121
+      ]
+    ]
+  },
+  "cancel": {
+    "defaults": "Cancel",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferencesForm.js",
+        134
+      ]
+    ]
+  },
+  "save_changes": {
+    "defaults": "Save Changes",
+    "origin": [
+      [
+        "src/containers/Pages/RoomSummary/RoomPreferencesForm.js",
+        138
+      ]
+    ]
+  }
+}

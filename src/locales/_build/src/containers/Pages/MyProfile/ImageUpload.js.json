@@ -1,0 +1,56 @@
+{
+  "flynas": {
+    "defaults": "Flynas",
+    "origin": [
+      [
+        "src/containers/Pages/MyProfile/ImageUpload.js",
+        54
+      ]
+    ]
+  },
+  "embrace_umrah": {
+    "defaults": "EMBRACE UMRAH",
+    "origin": [
+      [
+        "src/containers/Pages/MyProfile/ImageUpload.js",
+        55
+      ]
+    ]
+  },
+  "upload_avatar": {
+    "defaults": "Upload Avatar",
+    "origin": [
+      [
+        "src/containers/Pages/MyProfile/ImageUpload.js",
+        57
+      ]
+    ]
+  },
+  "select_your_image": {
+    "defaults": "Select Your Image",
+    "origin": [
+      [
+        "src/containers/Pages/MyProfile/ImageUpload.js",
+        64
+      ]
+    ]
+  },
+  "upload_image": {
+    "defaults": "Upload Image",
+    "origin": [
+      [
+        "src/containers/Pages/MyProfile/ImageUpload.js",
+        67
+      ]
+    ]
+  },
+  "loading": {
+    "defaults": "Loading....",
+    "origin": [
+      [
+        "src/containers/Pages/MyProfile/ImageUpload.js",
+        79
+      ]
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "flynas": {
+    "defaults": "Flynas",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        14
+      ]
+    ]
+  },
+  "embrace_umrah": {
+    "defaults": "EMBRACE UMRAH",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        15
+      ]
+    ]
+  },
+  "language": {
+    "defaults": "Language",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        25
+      ]
+    ]
+  },
+  "suggested_languages": {
+    "defaults": "Suggested languages",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        31
+      ]
+    ]
+  },
+  "all_languages": {
+    "defaults": "All languages",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        46
+      ]
+    ]
+  },
+  "sign_in": {
+    "defaults": "sign in",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        641
+      ]
+    ]
+  },
+  "create_account": {
+    "defaults": "Create account",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        642
+      ]
+    ]
+  },
+  "all_rights_reserved": {
+    "defaults": "All rights reserved",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        681
+      ]
+    ]
+  },
+  "loading": {
+    "defaults": "Loading....",
+    "origin": [
+      [
+        "src/components/Layout/MobileMenu.js",
+        693
+      ]
+    ]
+  }
+}

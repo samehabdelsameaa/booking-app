@@ -1,0 +1,83 @@
+{
+  "hotel": {
+    "defaults": "Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        32
+      ]
+    ]
+  },
+  "guests": {
+    "defaults": "Guests",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        46
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        50
+      ]
+    ]
+  },
+  "rooms": {
+    "defaults": "Rooms",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        50
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        56
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        56
+      ]
+    ]
+  },
+  "nights": {
+    "defaults": "Nights",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        65
+      ]
+    ]
+  },
+  "refundable": {
+    "defaults": "Refundable",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        70
+      ]
+    ]
+  },
+  "cost_of_room": {
+    "defaults": "Cost Of Room",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/HotelsBooking.js",
+        75
+      ]
+    ]
+  }
+}

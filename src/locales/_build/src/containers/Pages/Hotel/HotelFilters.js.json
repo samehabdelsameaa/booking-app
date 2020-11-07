@@ -1,0 +1,137 @@
+{
+  "hotel": {
+    "defaults": "Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        31
+      ]
+    ]
+  },
+  "coming_from": {
+    "defaults": "Coming From",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        44
+      ]
+    ]
+  },
+  "back_on": {
+    "defaults": "Back on",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        56
+      ]
+    ]
+  },
+  "night": {
+    "defaults": "Night",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        72
+      ]
+    ]
+  },
+  "nights": {
+    "defaults": "Nights",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        73
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        85
+      ]
+    ]
+  },
+  "rooms": {
+    "defaults": "Rooms",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        85
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        103
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        103
+      ]
+    ]
+  },
+  "child": {
+    "defaults": "Child",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        110
+      ]
+    ]
+  },
+  "children": {
+    "defaults": "Children",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        110
+      ]
+    ]
+  },
+  "infant": {
+    "defaults": "Infant",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        117
+      ]
+    ]
+  },
+  "infants": {
+    "defaults": "Infants",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        117
+      ]
+    ]
+  },
+  "piligrim": {
+    "defaults": "Piligrim",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        122
+      ]
+    ]
+  },
+  "change_package": {
+    "defaults": "Change package",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelFilters.js",
+        136
+      ]
+    ]
+  }
+}

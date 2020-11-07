@@ -1,0 +1,19 @@
+{
+  "departure_airport": {
+    "defaults": "Departure Airport",
+    "origin": [
+      [
+        "src/containers/Home/SearchForm/AirportDropdown.js",
+        28
+      ],
+      [
+        "src/containers/Home/SearchForm/AirportDropdown.js",
+        45
+      ],
+      [
+        "src/containers/Home/SearchForm/AirportDropdown.js",
+        55
+      ]
+    ]
+  }
+}

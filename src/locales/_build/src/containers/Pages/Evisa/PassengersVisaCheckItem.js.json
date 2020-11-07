@@ -1,0 +1,29 @@
+{
+  "checking": {
+    "defaults": "Checking",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/PassengersVisaCheckItem.js",
+        18
+      ]
+    ]
+  },
+  "failed": {
+    "defaults": "Failed",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/PassengersVisaCheckItem.js",
+        24
+      ]
+    ]
+  },
+  "cost": {
+    "defaults": "Cost",
+    "origin": [
+      [
+        "src/containers/Pages/Evisa/PassengersVisaCheckItem.js",
+        30
+      ]
+    ]
+  }
+}

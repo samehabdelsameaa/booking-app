@@ -1,0 +1,11 @@
+.custom-input-field {
+    border: none;
+    background: transparent;
+    color: #666666;
+    font-size: 13px;
+    &:focus {
+        border: none;
+        outline: none;
+        box-shadow: none;
+    }
+}

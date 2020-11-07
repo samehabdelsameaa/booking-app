@@ -1,0 +1,137 @@
+{
+  "select_an_option": {
+    "defaults": "Select an option",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        22
+      ]
+    ]
+  },
+  "for_more_personalized_help": {
+    "defaults": "For more personalized help",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        41
+      ]
+    ]
+  },
+  "sign_in": {
+    "defaults": "sign in",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        43
+      ]
+    ]
+  },
+  "_or": {
+    "defaults": "or",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        45
+      ]
+    ]
+  },
+  "create_account": {
+    "defaults": "Create account",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        47
+      ]
+    ]
+  },
+  "contact_us": {
+    "defaults": "Contact Us",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        66
+      ]
+    ]
+  },
+  "welcome_to_flynas_what_can_we_do": {
+    "defaults": "Welcome to Flynas! What can we do for you?",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        69
+      ]
+    ]
+  },
+  "manage_your_booking_online": {
+    "defaults": "Manage your booking online",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        75
+      ]
+    ]
+  },
+  "most_bookings_change_requests_can_be_fullfilled": {
+    "defaults": "Most bookings change requests can be fulfilled online by yourself, using Flynas self-service booking management page.",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        79
+      ]
+    ]
+  },
+  "manage_my_account": {
+    "defaults": "Manage my account",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        84
+      ]
+    ]
+  },
+  "pro_tip": {
+    "defaults": "Pro tip",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        93
+      ]
+    ]
+  },
+  "our_customer_service": {
+    "defaults": "Our customer service team is happy to help you at any time. However, for basic booking management, it`s faster and easier to use our",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        95
+      ]
+    ]
+  },
+  "self_service_tool": {
+    "defaults": "self-service tool",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        100
+      ]
+    ]
+  },
+  "required-fields_indicated_with": {
+    "defaults": "Required fields indicated with",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        176
+      ]
+    ]
+  },
+  "send_email": {
+    "defaults": "Send email",
+    "origin": [
+      [
+        "src/containers/Pages/ContactForm/index.js",
+        181
+      ]
+    ]
+  }
+}

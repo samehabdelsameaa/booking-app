@@ -1,0 +1,29 @@
+{
+  "filter_by": {
+    "defaults": "Filtered by",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelFilters.js",
+        39
+      ]
+    ]
+  },
+  "comfort_level": {
+    "defaults": "Comfort level",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelFilters.js",
+        68
+      ]
+    ]
+  },
+  "facilities": {
+    "defaults": "Facilities",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelFilters.js",
+        76
+      ]
+    ]
+  }
+}

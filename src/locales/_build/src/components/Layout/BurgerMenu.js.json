@@ -1,0 +1,56 @@
+{
+  "flynas": {
+    "defaults": "Flynas",
+    "origin": [
+      [
+        "src/components/Layout/BurgerMenu.js",
+        16
+      ]
+    ]
+  },
+  "all_rights_reserved": {
+    "defaults": "All rights reserved",
+    "origin": [
+      [
+        "src/components/Layout/BurgerMenu.js",
+        73
+      ]
+    ]
+  },
+  "loading": {
+    "defaults": "Loading....",
+    "origin": [
+      [
+        "src/components/Layout/BurgerMenu.js",
+        90
+      ]
+    ]
+  },
+  "language": {
+    "defaults": "Language",
+    "origin": [
+      [
+        "src/components/Layout/BurgerMenu.js",
+        104
+      ]
+    ]
+  },
+  "suggested_languages": {
+    "defaults": "Suggested languages",
+    "origin": [
+      [
+        "src/components/Layout/BurgerMenu.js",
+        109
+      ]
+    ]
+  },
+  "all_languages": {
+    "defaults": "All languages",
+    "origin": [
+      [
+        "src/components/Layout/BurgerMenu.js",
+        125
+      ]
+    ]
+  }
+}

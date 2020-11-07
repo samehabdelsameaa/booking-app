@@ -1,0 +1,20 @@
+{
+  "start_date": {
+    "defaults": "Start Date",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/CalenadarDropDownFilter.js",
+        37
+      ]
+    ]
+  },
+  "end_date": {
+    "defaults": "End date",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/CalenadarDropDownFilter.js",
+        46
+      ]
+    ]
+  }
+}

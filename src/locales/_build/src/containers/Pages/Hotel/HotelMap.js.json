@@ -1,0 +1,11 @@
+{
+  "what_s_around": {
+    "defaults": "What's Around",
+    "origin": [
+      [
+        "src/containers/Pages/Hotel/HotelMap.js",
+        19
+      ]
+    ]
+  }
+}

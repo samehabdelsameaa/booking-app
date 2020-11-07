@@ -1,0 +1,29 @@
+{
+  "select": {
+    "defaults": "Select",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelSearchCriteria.js",
+        40
+      ]
+    ]
+  },
+  "hotel": {
+    "defaults": "Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelSearchCriteria.js",
+        40
+      ]
+    ]
+  },
+  "update": {
+    "defaults": "Update",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelSearchCriteria.js",
+        50
+      ]
+    ]
+  }
+}

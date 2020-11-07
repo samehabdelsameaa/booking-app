@@ -1,0 +1,38 @@
+{
+  "manage_my_booking": {
+    "defaults": "Manage My Booking",
+    "origin": [
+      [
+        "src/containers/Pages/ManageBooking/index.js",
+        16
+      ]
+    ]
+  },
+  "retrieve_your_booking_information": {
+    "defaults": "Retrive your booking information.",
+    "origin": [
+      [
+        "src/containers/Pages/ManageBooking/index.js",
+        17
+      ]
+    ]
+  },
+  "manage_your_booking_online": {
+    "defaults": "Manage your booking online",
+    "origin": [
+      [
+        "src/containers/Pages/ManageBooking/index.js",
+        25
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/ManageBooking/index.js",
+        78
+      ]
+    ]
+  }
+}

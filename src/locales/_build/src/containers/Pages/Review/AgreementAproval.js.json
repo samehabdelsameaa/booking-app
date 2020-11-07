@@ -1,0 +1,47 @@
+{
+  "yes_i_accept_the": {
+    "defaults": "Yes, I accept the",
+    "origin": [
+      [
+        "src/containers/Pages/Review/AgreementAproval.js",
+        15
+      ]
+    ]
+  },
+  "terms_of_use": {
+    "defaults": "Terms of Use",
+    "origin": [
+      [
+        "src/containers/Pages/Review/AgreementAproval.js",
+        17
+      ]
+    ]
+  },
+  "and_the": {
+    "defaults": "and the",
+    "origin": [
+      [
+        "src/containers/Pages/Review/AgreementAproval.js",
+        19
+      ]
+    ]
+  },
+  "privacy_policy": {
+    "defaults": "Pravicy Policy",
+    "origin": [
+      [
+        "src/containers/Pages/Review/AgreementAproval.js",
+        21
+      ]
+    ]
+  },
+  "complete_booking": {
+    "defaults": "Complete booking",
+    "origin": [
+      [
+        "src/containers/Pages/Review/AgreementAproval.js",
+        35
+      ]
+    ]
+  }
+}

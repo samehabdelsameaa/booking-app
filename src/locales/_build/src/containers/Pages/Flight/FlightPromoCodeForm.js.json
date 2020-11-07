@@ -1,0 +1,20 @@
+{
+  "apply": {
+    "defaults": "Apply",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPromoCodeForm.js",
+        36
+      ]
+    ]
+  },
+  "enter_your_promo_code": {
+    "defaults": "Enter your promo code here to available discounts",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/FlightPromoCodeForm.js",
+        41
+      ]
+    ]
+  }
+}

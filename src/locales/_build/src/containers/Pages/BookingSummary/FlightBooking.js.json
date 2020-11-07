@@ -1,0 +1,47 @@
+{
+  "your_flight": {
+    "defaults": "Your flight",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/FlightBooking.js",
+        23
+      ]
+    ]
+  },
+  "who_s_going": {
+    "defaults": "Who's going?",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/FlightBooking.js",
+        51
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/FlightBooking.js",
+        54
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/FlightBooking.js",
+        54
+      ]
+    ]
+  },
+  "cost_of_fly": {
+    "defaults": "Cost of fly",
+    "origin": [
+      [
+        "src/containers/Pages/BookingSummary/FlightBooking.js",
+        59
+      ]
+    ]
+  }
+}

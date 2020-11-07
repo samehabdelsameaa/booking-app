@@ -1,0 +1,83 @@
+{
+  "your_package_cost": {
+    "defaults": "Your Package Cost",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        79
+      ]
+    ]
+  },
+  "includes_flight_and_hotel_for": {
+    "defaults": "Includes Flight + Hotel For",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        88
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        89
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        89
+      ]
+    ]
+  },
+  "proceed_to_checkout": {
+    "defaults": "Proceed to checkout",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        93
+      ]
+    ]
+  },
+  "book_this_package": {
+    "defaults": "Book this package",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        99
+      ]
+    ]
+  },
+  "sub_total": {
+    "defaults": "Sub Total",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        110
+      ]
+    ]
+  },
+  "total": {
+    "defaults": "Total",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        122
+      ]
+    ]
+  },
+  "change": {
+    "defaults": "Change",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelBookingSummary.js",
+        141
+      ]
+    ]
+  }
+}

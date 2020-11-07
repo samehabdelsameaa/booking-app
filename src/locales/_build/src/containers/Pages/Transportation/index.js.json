@@ -1,0 +1,29 @@
+{
+  "search": {
+    "defaults": "Search",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/index.js",
+        131
+      ]
+    ]
+  },
+  "back": {
+    "defaults": "Back",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/index.js",
+        151
+      ]
+    ]
+  },
+  "continue": {
+    "defaults": "Continue",
+    "origin": [
+      [
+        "src/containers/Pages/Transportation/index.js",
+        161
+      ]
+    ]
+  }
+}

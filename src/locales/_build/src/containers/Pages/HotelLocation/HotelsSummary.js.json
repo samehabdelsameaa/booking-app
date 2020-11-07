@@ -1,0 +1,65 @@
+{
+  "hotel": {
+    "defaults": "Hotel",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelsSummary.js",
+        31
+      ]
+    ]
+  },
+  "room": {
+    "defaults": "Room",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelsSummary.js",
+        84
+      ]
+    ]
+  },
+  "rooms": {
+    "defaults": "Rooms",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelsSummary.js",
+        84
+      ]
+    ]
+  },
+  "adult": {
+    "defaults": "Adult",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelsSummary.js",
+        90
+      ]
+    ]
+  },
+  "adults": {
+    "defaults": "Adults",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelsSummary.js",
+        90
+      ]
+    ]
+  },
+  "total": {
+    "defaults": "Total",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelsSummary.js",
+        99
+      ]
+    ]
+  },
+  "change": {
+    "defaults": "Change",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/HotelsSummary.js",
+        115
+      ]
+    ]
+  }
+}

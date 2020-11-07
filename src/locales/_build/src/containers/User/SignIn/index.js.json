@@ -1,0 +1,20 @@
+{
+  "flynas": {
+    "defaults": "Flynas",
+    "origin": [
+      [
+        "src/containers/User/SignIn/index.js",
+        50
+      ]
+    ]
+  },
+  "loading": {
+    "defaults": "Loading....",
+    "origin": [
+      [
+        "src/containers/User/SignIn/index.js",
+        100
+      ]
+    ]
+  }
+}

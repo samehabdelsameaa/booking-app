@@ -1,0 +1,20 @@
+{
+  "selected": {
+    "defaults": "Selected",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/Companies/GroundServicesCompanyItem.js",
+        67
+      ]
+    ]
+  },
+  "select": {
+    "defaults": "Select",
+    "origin": [
+      [
+        "src/containers/Pages/GroundServices/Companies/GroundServicesCompanyItem.js",
+        67
+      ]
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "flight_summary": {
+    "defaults": "Flight Summary",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/FlightSummary.js",
+        10
+      ]
+    ]
+  },
+  "departing_flight": {
+    "defaults": "Departing Flight",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/FlightSummary.js",
+        27
+      ]
+    ]
+  },
+  "returning_flight": {
+    "defaults": "Returning Flight",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/FlightSummary.js",
+        29
+      ]
+    ]
+  },
+  "flight": {
+    "defaults": "Flight",
+    "origin": [
+      [
+        "src/containers/Pages/HotelLocation/FlightSummary.js",
+        34
+      ]
+    ]
+  }
+}

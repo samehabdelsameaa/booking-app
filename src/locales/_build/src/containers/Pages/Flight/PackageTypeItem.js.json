@@ -1,0 +1,11 @@
+{
+  "recommended": {
+    "defaults": "Recommended",
+    "origin": [
+      [
+        "src/containers/Pages/Flight/PackageTypeItem.js",
+        44
+      ]
+    ]
+  }
+}
